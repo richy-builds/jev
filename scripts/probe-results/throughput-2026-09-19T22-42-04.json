@@ -1,0 +1,44 @@
+{
+ "items": 500,
+ "batch": 250,
+ "criterion": "The commenter describes something that happened to them personally (their own job, project, purchase, or experience), rather than stating an opinion, explaining a fact, or asking a question.",
+ "rows": [
+  {
+   "level": 2,
+   "requests": 2,
+   "ok": 2,
+   "errors": {},
+   "wallS": 1.4032830410000001,
+   "itemsPerS": 356.30730607539635,
+   "reqPerS": 1.4252292243015854,
+   "tokensPerS": 46577.91627940011,
+   "p50": 1403.1410409999999,
+   "p95": 1403.1410409999999,
+   "max": 1403.1410409999999,
+   "tokensPerReq": 32681,
+   "costUsd": 0.0027452040000000002,
+   "matchRate": 0.09
+  }
+ ],
+ "raw": [
+  {
+   "level": 2,
+   "timeline": [
+    {
+     "i": 1,
+     "started": 2,
+     "ended": 1309,
+     "ok": true,
+     "ms": 1307
+    },
+    {
+     "i": 0,
+     "started": 0,
+     "ended": 1403,
+     "ok": true,
+     "ms": 1403
+    }
+   ]
+  }
+ ]
+}

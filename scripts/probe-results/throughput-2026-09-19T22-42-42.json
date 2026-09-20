@@ -1,0 +1,219 @@
+{
+ "items": 932,
+ "batch": 250,
+ "criterion": "The commenter describes something that happened to them personally (their own job, project, purchase, or experience), rather than stating an opinion, explaining a fact, or asking a question.",
+ "rows": [
+  {
+   "level": 1,
+   "requests": 3,
+   "ok": 3,
+   "errors": {},
+   "wallS": 3.100832542,
+   "itemsPerS": 241.870526654193,
+   "reqPerS": 0.9674821066167719,
+   "tokensPerS": 31815.649076092544,
+   "p50": 815.7603749999998,
+   "p95": 1483.5712910000002,
+   "max": 1483.5712910000002,
+   "tokensPerReq": 32885,
+   "costUsd": 0.00414351,
+   "matchRate": 0.144
+  },
+  {
+   "level": 4,
+   "requests": 3,
+   "ok": 3,
+   "errors": {},
+   "wallS": 1.506402,
+   "itemsPerS": 497.8750692046346,
+   "reqPerS": 1.9915002768185384,
+   "tokensPerS": 65490.48660317764,
+   "p50": 622.9582500000015,
+   "p95": 1499.8093750000007,
+   "max": 1499.8093750000007,
+   "tokensPerReq": 32885,
+   "costUsd": 0.00414351,
+   "matchRate": 0.144
+  },
+  {
+   "level": 8,
+   "requests": 3,
+   "ok": 3,
+   "errors": {},
+   "wallS": 0.6420198749999999,
+   "itemsPerS": 1168.188134362663,
+   "reqPerS": 4.672752537450652,
+   "tokensPerS": 153663.4671940647,
+   "p50": 522.9386250000007,
+   "p95": 632.822709,
+   "max": 632.822709,
+   "tokensPerReq": 32885,
+   "costUsd": 0.00414351,
+   "matchRate": 0.11066666666666666
+  },
+  {
+   "level": 16,
+   "requests": 3,
+   "ok": 3,
+   "errors": {},
+   "wallS": 0.5254887920000001,
+   "itemsPerS": 1427.2426194772197,
+   "reqPerS": 5.708970477908879,
+   "tokensPerS": 187739.4941660335,
+   "p50": 489.64300000000003,
+   "p95": 525.3577089999999,
+   "max": 525.3577089999999,
+   "tokensPerReq": 32885,
+   "costUsd": 0.00414351,
+   "matchRate": 0.088
+  },
+  {
+   "level": 32,
+   "requests": 3,
+   "ok": 3,
+   "errors": {},
+   "wallS": 0.5169543340000018,
+   "itemsPerS": 1450.8051304972664,
+   "reqPerS": 5.803220521989065,
+   "tokensPerS": 190838.90686561042,
+   "p50": 510.30470799999966,
+   "p95": 516.7879579999972,
+   "max": 516.7879579999972,
+   "tokensPerReq": 32885,
+   "costUsd": 0.00414351,
+   "matchRate": 0.13333333333333333
+  }
+ ],
+ "raw": [
+  {
+   "level": 1,
+   "timeline": [
+    {
+     "i": 0,
+     "started": 0,
+     "ended": 1484,
+     "ok": true,
+     "ms": 1484
+    },
+    {
+     "i": 1,
+     "started": 1484,
+     "ended": 2285,
+     "ok": true,
+     "ms": 801
+    },
+    {
+     "i": 2,
+     "started": 2285,
+     "ended": 3101,
+     "ok": true,
+     "ms": 816
+    }
+   ]
+  },
+  {
+   "level": 4,
+   "timeline": [
+    {
+     "i": 0,
+     "started": 0,
+     "ended": 623,
+     "ok": true,
+     "ms": 623
+    },
+    {
+     "i": 1,
+     "started": 4,
+     "ended": 624,
+     "ok": true,
+     "ms": 620
+    },
+    {
+     "i": 2,
+     "started": 6,
+     "ended": 1506,
+     "ok": true,
+     "ms": 1500
+    }
+   ]
+  },
+  {
+   "level": 8,
+   "timeline": [
+    {
+     "i": 0,
+     "started": 0,
+     "ended": 459,
+     "ok": true,
+     "ms": 459
+    },
+    {
+     "i": 1,
+     "started": 6,
+     "ended": 529,
+     "ok": true,
+     "ms": 523
+    },
+    {
+     "i": 2,
+     "started": 9,
+     "ended": 642,
+     "ok": true,
+     "ms": 633
+    }
+   ]
+  },
+  {
+   "level": 16,
+   "timeline": [
+    {
+     "i": 1,
+     "started": 2,
+     "ended": 486,
+     "ok": true,
+     "ms": 484
+    },
+    {
+     "i": 2,
+     "started": 3,
+     "ended": 493,
+     "ok": true,
+     "ms": 490
+    },
+    {
+     "i": 0,
+     "started": 0,
+     "ended": 525,
+     "ok": true,
+     "ms": 525
+    }
+   ]
+  },
+  {
+   "level": 32,
+   "timeline": [
+    {
+     "i": 1,
+     "started": 2,
+     "ended": 479,
+     "ok": true,
+     "ms": 477
+    },
+    {
+     "i": 2,
+     "started": 3,
+     "ended": 513,
+     "ok": true,
+     "ms": 510
+    },
+    {
+     "i": 0,
+     "started": 0,
+     "ended": 517,
+     "ok": true,
+     "ms": 517
+    }
+   ]
+  }
+ ]
+}

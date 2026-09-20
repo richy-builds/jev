@@ -1,0 +1,15 @@
+.env.local
+node_modules
+
+.next
+next-env.d.ts
+
+recordings
+screenshots
+
+scripts/cache
+
+# build artefacts
+tsconfig.tsbuildinfo
+.DS_Store
+public/posters

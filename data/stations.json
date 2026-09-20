@@ -1,0 +1,6634 @@
+[
+ {
+  "id": "940GZZLUACT",
+  "name": "Acton Town",
+  "lines": [
+   "district",
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.503057,
+  "lon": -0.280462,
+  "x": 218.8,
+  "y": 459.7,
+  "hub": "940GZZLUACT",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 7,
+   "cafes": 2,
+   "parks": 3,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Transport Museum Depot, Heathfield Nature Garden, Mill Hill Gardens; green",
+  "hook": "Transport Museum Depot, Heathfield Nature Garden, Mill Hill Gardens; green"
+ },
+ {
+  "id": "940GZZLUALD",
+  "name": "Aldgate",
+  "lines": [
+   "circle",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.514246,
+  "lon": -0.075689,
+  "x": 676.3,
+  "y": 424.2,
+  "hub": "940GZZLUALD",
+  "candidate": true,
+  "pois": {
+   "pubs": 27,
+   "bars": 28,
+   "restaurants": 67,
+   "cafes": 55,
+   "parks": 5,
+   "culture": 30,
+   "markets": 1
+  },
+  "draft": "Wentworth Street Market, Police Public Callbox, Holy Trinity Priory; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "City edge near Brick Lane; office pubs, Petticoat Lane market"
+ },
+ {
+  "id": "940GZZLUADE",
+  "name": "Aldgate East",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 1,
+  "lat": 51.515037,
+  "lon": -0.072384,
+  "x": 682.4,
+  "y": 420.8,
+  "hub": "940GZZLUADE",
+  "candidate": true,
+  "pois": {
+   "pubs": 21,
+   "bars": 15,
+   "restaurants": 74,
+   "cafes": 54,
+   "parks": 5,
+   "culture": 20,
+   "markets": 1
+  },
+  "draft": "Wentworth Street Market, Whitechapel Gallery, Brick Lane; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Brick Lane and Whitechapel Gallery; curry houses, bagels, street art, vintage"
+ },
+ {
+  "id": "940GZZLUALP",
+  "name": "Alperton",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.540627,
+  "lon": -0.29961,
+  "x": 200.5,
+  "y": 342.5,
+  "hub": "940GZZLUALP",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 1,
+   "restaurants": 2,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUAMS",
+  "name": "Amersham",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 9,
+  "lat": 51.674126,
+  "lon": -0.607714,
+  "x": 30,
+  "y": 161.9,
+  "hub": "910GAMERSHM",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUAGL",
+  "name": "Angel",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.532624,
+  "lon": -0.105898,
+  "x": 606.1,
+  "y": 337.6,
+  "hub": "940GZZLUAGL",
+  "candidate": true,
+  "pois": {
+   "pubs": 16,
+   "bars": 8,
+   "restaurants": 46,
+   "cafes": 40,
+   "parks": 6,
+   "culture": 18,
+   "markets": 4
+  },
+  "draft": "Chapel Market, Camden Passage Antiques Market, Claremont Square; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Islington: Upper Street restaurants, Camden Passage antiques, cosy pubs, Almeida theatre"
+ },
+ {
+  "id": "940GZZLUACY",
+  "name": "Archway",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2.5,
+  "lat": 51.565478,
+  "lon": -0.134819,
+  "x": 517.7,
+  "y": 218.3,
+  "hub": "940GZZLUACY",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 1,
+   "restaurants": 12,
+   "cafes": 18,
+   "parks": 6,
+   "culture": 6,
+   "markets": 0
+  },
+  "draft": "Bomb Factory Art Foundation, Whittington Stone, Kogan Academy of Dramatic Arts; pubs, restaurants, green",
+  "hook": "Foot of Highgate Hill; local pubs, walk up to Highgate and Waterlow Park"
+ },
+ {
+  "id": "940GZZLUASG",
+  "name": "Arnos Grove",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.616446,
+  "lon": -0.133062,
+  "x": 516.8,
+  "y": 110.9,
+  "hub": "940GZZLUASG",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Arnos Park; quiet, residential",
+  "hook": "Arnos Park; quiet, residential"
+ },
+ {
+  "id": "940GZZLUASL",
+  "name": "Arsenal",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 2,
+  "lat": 51.558655,
+  "lon": -0.107457,
+  "x": 587.2,
+  "y": 243.3,
+  "hub": "940GZZLUASL",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 0,
+   "parks": 2,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "Arsenal Museum, Gillespie Park Nature Reserve, Isledon Gardens; green",
+  "hook": "Emirates Stadium; match-day pubs, Highbury residential streets"
+ },
+ {
+  "id": "940GZZLUBST",
+  "name": "Baker Street",
+  "lines": [
+   "bakerloo",
+   "circle",
+   "hammersmith-city",
+   "jubilee",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.522883,
+  "lon": -0.15713,
+  "x": 447.6,
+  "y": 377.7,
+  "hub": "940GZZLUBST",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 1,
+   "restaurants": 39,
+   "cafes": 22,
+   "parks": 6,
+   "culture": 42,
+   "markets": 1
+  },
+  "draft": "221B Baker Street, Sherlock Holmes Museum, Madame Tussauds; pubs, restaurants, theatres and galleries, green",
+  "hook": "Regent's Park, Madame Tussauds, Sherlock Holmes museum; Marylebone cafés and pubs"
+ },
+ {
+  "id": "940GZZLUBLM",
+  "name": "Balham",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.443288,
+  "lon": -0.152997,
+  "x": 475.7,
+  "y": 673.2,
+  "hub": "HUBBAL",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 9,
+   "restaurants": 21,
+   "cafes": 19,
+   "parks": 0,
+   "culture": 2,
+   "markets": 1
+  },
+  "draft": "Social Pottery, TK Maxx, The Bedford; late-night bars, pubs, restaurants, market",
+  "hook": "Social Pottery, TK Maxx, The Bedford; late-night bars, pubs, restaurants, market"
+ },
+ {
+  "id": "940GZZLUBNK",
+  "name": "Bank",
+  "lines": [
+   "central",
+   "northern",
+   "waterloo-city"
+  ],
+  "zone": 1,
+  "lat": 51.51225,
+  "lon": -0.087792,
+  "x": 652.5,
+  "y": 433.5,
+  "hub": "HUBBAN",
+  "candidate": true,
+  "pois": {
+   "pubs": 36,
+   "bars": 28,
+   "restaurants": 70,
+   "cafes": 45,
+   "parks": 3,
+   "culture": 76,
+   "markets": 3
+  },
+  "draft": "Leadenhall Market, ARTE DELUX, Bank of England; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Heart of the City; Bank of England, Leadenhall Market, smart after-work bars"
+ },
+ {
+  "id": "940GZZLUBBN",
+  "name": "Barbican",
+  "lines": [
+   "circle",
+   "hammersmith-city",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.520275,
+  "lon": -0.097993,
+  "x": 630,
+  "y": 396,
+  "hub": "940GZZLUBBN",
+  "candidate": true,
+  "pois": {
+   "pubs": 16,
+   "bars": 14,
+   "restaurants": 41,
+   "cafes": 28,
+   "parks": 10,
+   "culture": 48,
+   "markets": 1
+  },
+  "draft": "Charterhouse Square, The Charterhouse, St Bartholomew-The Great; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Barbican Centre arts, cinema, concerts; brutalist estate, conservatory, quiet at weekends"
+ },
+ {
+  "id": "940GZZLUBKG",
+  "name": "Barking",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 4,
+  "lat": 51.539321,
+  "lon": 0.081053,
+  "x": 862.4,
+  "y": 357.1,
+  "hub": "HUBBKG",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 3,
+   "restaurants": 8,
+   "cafes": 13,
+   "parks": 1,
+   "culture": 5,
+   "markets": 1
+  },
+  "draft": "Folly Wall, A House for Artists, Barking Central Arboretum; market",
+  "hook": "Folly Wall, A House for Artists, Barking Central Arboretum; market"
+ },
+ {
+  "id": "940GZZLUBKE",
+  "name": "Barkingside",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.585689,
+  "lon": 0.088585,
+  "x": 851.2,
+  "y": 247.4,
+  "hub": "940GZZLUBKE",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUBSC",
+  "name": "Barons Court",
+  "lines": [
+   "district",
+   "piccadilly"
+  ],
+  "zone": 2,
+  "lat": 51.490311,
+  "lon": -0.213427,
+  "x": 322.1,
+  "y": 519.6,
+  "hub": "940GZZLUBSC",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 3,
+   "parks": 2,
+   "culture": 12,
+   "markets": 0
+  },
+  "draft": "Gwendwr Gardens, Reception House, The Carne Studio Theatre; theatres and galleries, green",
+  "hook": "Gwendwr Gardens, Reception House, The Carne Studio Theatre; theatres and galleries, green"
+ },
+ {
+  "id": "940GZZBPSUST",
+  "name": "Battersea Power Station",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.479932,
+  "lon": -0.142142,
+  "x": 499.4,
+  "y": 577.9,
+  "hub": "940GZZBPSUST",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 8,
+   "cafes": 8,
+   "parks": 1,
+   "culture": 5,
+   "markets": 1
+  },
+  "draft": "Central Gardens; market",
+  "hook": "Central Gardens; market"
+ },
+ {
+  "id": "940GZZLUBWT",
+  "name": "Bayswater",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.512284,
+  "lon": -0.187938,
+  "x": 364.9,
+  "y": 433.9,
+  "hub": "940GZZLUBWT",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 1,
+   "restaurants": 39,
+   "cafes": 23,
+   "parks": 5,
+   "culture": 13,
+   "markets": 1
+  },
+  "draft": "Fake houses, Leinster Square Gardens, The Leinster Arms; pubs, restaurants, theatres and galleries, green",
+  "hook": "Queensway; Hyde Park and Kensington Gardens, cheap eats, Whiteleys"
+ },
+ {
+  "id": "940GZZLUBEC",
+  "name": "Becontree",
+  "lines": [
+   "district"
+  ],
+  "zone": 5,
+  "lat": 51.540331,
+  "lon": 0.127016,
+  "x": 897.7,
+  "y": 360.3,
+  "hub": "940GZZLUBEC",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUBZP",
+  "name": "Belsize Park",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.550529,
+  "lon": -0.164783,
+  "x": 437.7,
+  "y": 265.4,
+  "hub": "940GZZLUBZP",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 9,
+   "cafes": 8,
+   "parks": 5,
+   "culture": 11,
+   "markets": 0
+  },
+  "draft": "Belsize Wood Nature Reserve, Isokon Gallery, WAC Arts Centre; theatres and galleries, green",
+  "hook": "Villagey Hampstead edge; gastropubs, Everyman cinema, walk to the Heath"
+ },
+ {
+  "id": "940GZZLUBMY",
+  "name": "Bermondsey",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.49775,
+  "lon": -0.063993,
+  "x": 693.2,
+  "y": 489.6,
+  "hub": "940GZZLUBMY",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 4,
+   "parks": 1,
+   "culture": 1,
+   "markets": 1
+  },
+  "draft": "Kappacasein Dairy; market",
+  "hook": "Bermondsey Street bars, Maltby Street market, Bermondsey Beer Mile breweries"
+ },
+ {
+  "id": "940GZZLUBLG",
+  "name": "Bethnal Green",
+  "lines": [
+   "central"
+  ],
+  "zone": 2,
+  "lat": 51.527222,
+  "lon": -0.055506,
+  "x": 709.4,
+  "y": 373.3,
+  "hub": "940GZZLUBLG",
+  "candidate": true,
+  "pois": {
+   "pubs": 10,
+   "bars": 5,
+   "restaurants": 10,
+   "cafes": 12,
+   "parks": 7,
+   "culture": 20,
+   "markets": 0
+  },
+  "draft": "Young V&A, Vagina Museum, Sweet Tea House; lots of pubs, theatres and galleries",
+  "hook": "Young V&A, Victoria Park nearby; East End pubs, Bethnal Green Road cheap eats"
+ },
+ {
+  "id": "940GZZLUBKF",
+  "name": "Blackfriars",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.511581,
+  "lon": -0.103659,
+  "x": 617,
+  "y": 437.9,
+  "hub": "HUBBFR",
+  "candidate": true,
+  "pois": {
+   "pubs": 16,
+   "bars": 10,
+   "restaurants": 30,
+   "cafes": 28,
+   "parks": 5,
+   "culture": 29,
+   "markets": 0
+  },
+  "draft": "Whitefriars Crypt, Bridewell Theatre, The Blackfriar; late-night bars, lots of pubs, restaurants, theatres and galleries",
+  "hook": "Whitefriars Crypt, Bridewell Theatre, The Blackfriar; late-night bars, lots of pubs, restaurants, theatres and galleries"
+ },
+ {
+  "id": "940GZZLUBLR",
+  "name": "Blackhorse Road",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 3,
+  "lat": 51.586919,
+  "lon": -0.04115,
+  "x": 696.8,
+  "y": 194.9,
+  "hub": "HUBBHO",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 1,
+   "restaurants": 2,
+   "cafes": 6,
+   "parks": 3,
+   "culture": 9,
+   "markets": 0
+  },
+  "draft": "Stoneydown Speakers' Corner, Canal Walk, Stoneydown Park; theatres and galleries, green",
+  "hook": "Walthamstow Wetlands and reservoirs; Blackhorse Lane breweries and taprooms"
+ },
+ {
+  "id": "940GZZLUBND",
+  "name": "Bond Street",
+  "lines": [
+   "central",
+   "jubilee"
+  ],
+  "zone": 1,
+  "lat": 51.514304,
+  "lon": -0.149723,
+  "x": 470.8,
+  "y": 425.6,
+  "hub": "HUBBDS",
+  "candidate": true,
+  "pois": {
+   "pubs": 13,
+   "bars": 13,
+   "restaurants": 75,
+   "cafes": 46,
+   "parks": 2,
+   "culture": 55,
+   "markets": 4
+  },
+  "draft": "St Christopher's place, Maddox Arts, Handel & Hendrix; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Mayfair and Oxford Street shopping; Selfridges, galleries, smart bars and hotels"
+ },
+ {
+  "id": "940GZZLUBOR",
+  "name": "Borough",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.501199,
+  "lon": -0.09337,
+  "x": 637.3,
+  "y": 483.8,
+  "hub": "940GZZLUBOR",
+  "candidate": true,
+  "pois": {
+   "pubs": 14,
+   "bars": 10,
+   "restaurants": 19,
+   "cafes": 20,
+   "parks": 19,
+   "culture": 17,
+   "markets": 1
+  },
+  "draft": "Tabard Street Food Market, Little Dorrit Park, Red Cross Garden; late-night bars, lots of pubs, restaurants, theatres and galleries",
+  "hook": "Borough Market food, Southwark pubs, the Shard; Bankside a short walk"
+ },
+ {
+  "id": "940GZZLUBOS",
+  "name": "Boston Manor",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.495635,
+  "lon": -0.324939,
+  "x": 172.7,
+  "y": 476.3,
+  "hub": "940GZZLUBOS",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 2,
+   "parks": 2,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Wildberry Nature Reserve, Blondin Park Nature Reserve; green",
+  "hook": "Wildberry Nature Reserve, Blondin Park Nature Reserve; green"
+ },
+ {
+  "id": "940GZZLUBDS",
+  "name": "Bounds Green",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3.5,
+  "lat": 51.607034,
+  "lon": -0.124235,
+  "x": 535,
+  "y": 128,
+  "hub": "940GZZLUBDS",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 6,
+   "cafes": 5,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "Quiet residential; local pubs, near Alexandra Palace"
+ },
+ {
+  "id": "940GZZLUBWR",
+  "name": "Bow Road",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.52694,
+  "lon": -0.025128,
+  "x": 754,
+  "y": 379.1,
+  "hub": "940GZZLUBWR",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 2,
+   "parks": 3,
+   "culture": 16,
+   "markets": 0
+  },
+  "draft": "Archibald Open Space, Siyah Garden, Kevtar Garden; theatres and galleries, green",
+  "hook": "Archibald Open Space, Siyah Garden, Kevtar Garden; theatres and galleries, green"
+ },
+ {
+  "id": "940GZZLUBTX",
+  "name": "Brent Cross",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.57665,
+  "lon": -0.213622,
+  "x": 346,
+  "y": 207.9,
+  "hub": "940GZZLUBTX",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUBXN",
+  "name": "Brixton",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 2,
+  "lat": 51.462618,
+  "lon": -0.114888,
+  "x": 565.5,
+  "y": 624.6,
+  "hub": "HUBBRX",
+  "candidate": true,
+  "pois": {
+   "pubs": 12,
+   "bars": 14,
+   "restaurants": 62,
+   "cafes": 28,
+   "parks": 5,
+   "culture": 12,
+   "markets": 9
+  },
+  "draft": "Electric Avenue, Brixton Market, Reliance Arcade; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Brixton Village and Market food, Ritzy cinema, O2 Academy gigs, late bars"
+ },
+ {
+  "id": "940GZZLUBBB",
+  "name": "Bromley-by-Bow",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 2.5,
+  "lat": 51.524839,
+  "lon": -0.011538,
+  "x": 771.8,
+  "y": 387.8,
+  "hub": "940GZZLUBBB",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 1,
+   "cafes": 5,
+   "parks": 4,
+   "culture": 10,
+   "markets": 0
+  },
+  "draft": "Bromley Recreation Ground, House Mill, The Clock Mill; theatres and galleries, green",
+  "hook": "Bromley Recreation Ground, House Mill, The Clock Mill; theatres and galleries, green"
+ },
+ {
+  "id": "940GZZLUBKH",
+  "name": "Buckhurst Hill",
+  "lines": [
+   "central"
+  ],
+  "zone": 5,
+  "lat": 51.626605,
+  "lon": 0.046757,
+  "x": 785.6,
+  "y": 148.8,
+  "hub": "940GZZLUBKH",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUBTK",
+  "name": "Burnt Oak",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.602774,
+  "lon": -0.264048,
+  "x": 282,
+  "y": 168.6,
+  "hub": "940GZZLUBTK",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 2,
+   "parks": 1,
+   "culture": 0,
+   "markets": 1
+  },
+  "draft": "Watling Market (disused), Silk Stream Park; market",
+  "hook": "Watling Market (disused), Silk Stream Park; market"
+ },
+ {
+  "id": "940GZZLUCAR",
+  "name": "Caledonian Road",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 2,
+  "lat": 51.548519,
+  "lon": -0.118493,
+  "x": 564.7,
+  "y": 272.2,
+  "hub": "940GZZLUCAR",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 7,
+   "parks": 2,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Caledonian Park, Pleasance, Market Road Garden; green",
+  "hook": "Cally Road; local pubs, Pentonville, near King's Cross"
+ },
+ {
+  "id": "940GZZLUCTN",
+  "name": "Camden Town",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.539292,
+  "lon": -0.14274,
+  "x": 497.5,
+  "y": 301.7,
+  "hub": "940GZZLUCTN",
+  "candidate": true,
+  "pois": {
+   "pubs": 17,
+   "bars": 18,
+   "restaurants": 50,
+   "cafes": 31,
+   "parks": 3,
+   "culture": 12,
+   "markets": 5
+  },
+  "draft": "Inverness Street Market, BOXPARK Camden, The Jewish Museum; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Camden Market, canal, live music venues, rock pubs, Regent's Park and Primrose Hill"
+ },
+ {
+  "id": "940GZZLUCWR",
+  "name": "Canada Water",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.497931,
+  "lon": -0.049405,
+  "x": 717.3,
+  "y": 485.3,
+  "hub": "HUBZCW",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 6,
+   "cafes": 11,
+   "parks": 3,
+   "culture": 4,
+   "markets": 1
+  },
+  "draft": "King George's Park, Neptune Street Park, Wolfe Crescent; green, market",
+  "hook": "Docklands library, Surrey Quays; quiet waterside, Greenland Dock"
+ },
+ {
+  "id": "940GZZLUCYF",
+  "name": "Canary Wharf",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.503488,
+  "lon": -0.018246,
+  "x": 763,
+  "y": 460.1,
+  "hub": "HUBCAW",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 16,
+   "restaurants": 59,
+   "cafes": 32,
+   "parks": 6,
+   "culture": 52,
+   "markets": 1
+  },
+  "draft": "The Cube, Theatreship, Canary Wharf Theatre; late-night bars, pubs, packed with restaurants, theatres and galleries",
+  "hook": "Skyscrapers, mall, waterside bars, corporate after-work crowd"
+ },
+ {
+  "id": "940GZZLUCGT",
+  "name": "Canning Town",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2.5,
+  "lat": 51.513584,
+  "lon": 0.008322,
+  "x": 795.8,
+  "y": 425.2,
+  "hub": "HUBCAN",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 2,
+   "restaurants": 9,
+   "cafes": 12,
+   "parks": 4,
+   "culture": 10,
+   "markets": 1
+  },
+  "draft": "Bow Creek Ecology Park, London Lighthouse, Rathbone Market; theatres and galleries, green, market",
+  "hook": "Bow Creek Ecology Park, London Lighthouse, Rathbone Market; theatres and galleries, green, market"
+ },
+ {
+  "id": "940GZZLUCST",
+  "name": "Cannon Street",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.51151,
+  "lon": -0.090432,
+  "x": 646.9,
+  "y": 437,
+  "hub": "HUBCST",
+  "candidate": true,
+  "pois": {
+   "pubs": 28,
+   "bars": 22,
+   "restaurants": 47,
+   "cafes": 30,
+   "parks": 4,
+   "culture": 69,
+   "markets": 2
+  },
+  "draft": "ARTE DELUX, Bank of England, St. Mary-Le-Bow; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "City riverside; Thames path, office pubs, quiet weekends"
+ },
+ {
+  "id": "940GZZLUCPK",
+  "name": "Canons Park",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 5,
+  "lat": 51.607701,
+  "lon": -0.294693,
+  "x": 244.3,
+  "y": 171.1,
+  "hub": "940GZZLUCPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 1,
+   "parks": 2,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Stanmore Marsh South; green",
+  "hook": "Stanmore Marsh South; green"
+ },
+ {
+  "id": "940GZZLUCAL",
+  "name": "Chalfont & Latimer",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 8,
+  "lat": 51.667985,
+  "lon": -0.560689,
+  "x": 53.7,
+  "y": 158,
+  "hub": "910GCHLFNAL",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUCFM",
+  "name": "Chalk Farm",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.544118,
+  "lon": -0.153388,
+  "x": 466.6,
+  "y": 284.8,
+  "hub": "940GZZLUCFM",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 7,
+   "restaurants": 18,
+   "cafes": 13,
+   "parks": 1,
+   "culture": 9,
+   "markets": 0
+  },
+  "draft": "Koppel Collective, Roundhouse, Zabludowicz Collection; pubs, restaurants, theatres and galleries",
+  "hook": "Roundhouse gigs, Primrose Hill village, canal towpath, pubs"
+ },
+ {
+  "id": "940GZZLUCHL",
+  "name": "Chancery Lane",
+  "lines": [
+   "central"
+  ],
+  "zone": 1,
+  "lat": 51.518247,
+  "lon": -0.111583,
+  "x": 597.2,
+  "y": 404.5,
+  "hub": "940GZZLUCHL",
+  "candidate": true,
+  "pois": {
+   "pubs": 16,
+   "bars": 5,
+   "restaurants": 32,
+   "cafes": 35,
+   "parks": 5,
+   "culture": 24,
+   "markets": 1
+  },
+  "draft": "Leather Lane Market, Gray's Inn Hall, Lincoln's Inn; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "Legal London; Lincoln's Inn Fields, Leather Lane street food, historic pubs"
+ },
+ {
+  "id": "940GZZLUCHX",
+  "name": "Charing Cross",
+  "lines": [
+   "bakerloo",
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.50741,
+  "lon": -0.127277,
+  "x": 550.5,
+  "y": 463.3,
+  "hub": "HUBCHX",
+  "candidate": true,
+  "pois": {
+   "pubs": 27,
+   "bars": 17,
+   "restaurants": 70,
+   "cafes": 44,
+   "parks": 4,
+   "culture": 133,
+   "markets": 1
+  },
+  "draft": "Trafalgar Square, British Optical Association Museum, St Martin-in-the-Fields; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Trafalgar Square, National Gallery, the Strand; Covent Garden and theatres nearby"
+ },
+ {
+  "id": "940GZZLUCSM",
+  "name": "Chesham",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 9,
+  "lat": 51.705208,
+  "lon": -0.611247,
+  "x": 41.6,
+  "y": 121.2,
+  "hub": "940GZZLUCSM",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUCWL",
+  "name": "Chigwell",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.617916,
+  "lon": 0.075041,
+  "x": 820.4,
+  "y": 176.1,
+  "hub": "940GZZLUCWL",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUCWP",
+  "name": "Chiswick Park",
+  "lines": [
+   "district"
+  ],
+  "zone": 3,
+  "lat": 51.494627,
+  "lon": -0.267972,
+  "x": 236.4,
+  "y": 489.2,
+  "hub": "940GZZLUCWP",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 1,
+   "restaurants": 10,
+   "cafes": 7,
+   "parks": 4,
+   "culture": 2,
+   "markets": 1
+  },
+  "draft": "Gunnersbury Triangle Local Nature Reserve, Turnham Green, The Old Pack Horse; pubs, green, market",
+  "hook": "Gunnersbury Triangle Local Nature Reserve, Turnham Green, The Old Pack Horse; pubs, green, market"
+ },
+ {
+  "id": "940GZZLUCYD",
+  "name": "Chorleywood",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 7,
+  "lat": 51.654358,
+  "lon": -0.518461,
+  "x": 73.4,
+  "y": 166.3,
+  "hub": "910GCHRW",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUCPC",
+  "name": "Clapham Common",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.461742,
+  "lon": -0.138317,
+  "x": 508.8,
+  "y": 630.3,
+  "hub": "940GZZLUCPC",
+  "candidate": true,
+  "pois": {
+   "pubs": 12,
+   "bars": 3,
+   "restaurants": 25,
+   "cafes": 19,
+   "parks": 2,
+   "culture": 10,
+   "markets": 1
+  },
+  "draft": "Studio Voltaire, Omnibus Clapham; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "The Common; Old Town pubs, brunch spots, young crowd, lively nights"
+ },
+ {
+  "id": "940GZZLUCPN",
+  "name": "Clapham North",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.465135,
+  "lon": -0.130016,
+  "x": 529.7,
+  "y": 620.7,
+  "hub": "940GZZLUCPN",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 6,
+   "restaurants": 10,
+   "cafes": 8,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "Fenwick Hall, The Landor Theatre; pubs",
+  "hook": "Clapham High Street bars, Venn Street market, lively nights"
+ },
+ {
+  "id": "940GZZLUCPS",
+  "name": "Clapham South",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2.5,
+  "lat": 51.452654,
+  "lon": -0.147582,
+  "x": 486.9,
+  "y": 652.5,
+  "hub": "940GZZLUCPS",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 5,
+   "cafes": 5,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "Clapham South Deep Level Shelter; local high street",
+  "hook": "The Common's quiet side; Abbeville Village cafés and pubs"
+ },
+ {
+  "id": "940GZZLUCKS",
+  "name": "Cockfosters",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 5,
+  "lat": 51.65152,
+  "lon": -0.149171,
+  "x": 488,
+  "y": 58.1,
+  "hub": "940GZZLUCKS",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 9,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUCND",
+  "name": "Colindale",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.595424,
+  "lon": -0.249919,
+  "x": 297.8,
+  "y": 178.6,
+  "hub": "940GZZLUCND",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 1,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Colindale Park; quiet, residential",
+  "hook": "Colindale Park; quiet, residential"
+ },
+ {
+  "id": "940GZZLUCSD",
+  "name": "Colliers Wood",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.41816,
+  "lon": -0.178086,
+  "x": 430.7,
+  "y": 718.4,
+  "hub": "940GZZLUCSD",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 6,
+   "cafes": 4,
+   "parks": 3,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "Wandle Park, The Holden, Garden of Remembrance; green",
+  "hook": "Wandle Park, The Holden, Garden of Remembrance; green"
+ },
+ {
+  "id": "940GZZLUCGN",
+  "name": "Covent Garden",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.513093,
+  "lon": -0.124436,
+  "x": 560.9,
+  "y": 432,
+  "hub": "940GZZLUCGN",
+  "candidate": true,
+  "pois": {
+   "pubs": 46,
+   "bars": 35,
+   "restaurants": 215,
+   "cafes": 102,
+   "parks": 2,
+   "culture": 72,
+   "markets": 5
+  },
+  "draft": "Seven Dials Market, Jubilee Market Hall, Earlham Street Market; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Piazza, Royal Opera House, theatres, Seven Dials, restaurants, tourist crowds"
+ },
+ {
+  "id": "940GZZLUCXY",
+  "name": "Croxley",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 7,
+  "lat": 51.647044,
+  "lon": -0.441718,
+  "x": 123.9,
+  "y": 153.9,
+  "hub": "940GZZLUCXY",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUDGE",
+  "name": "Dagenham East",
+  "lines": [
+   "district"
+  ],
+  "zone": 5,
+  "lat": 51.544096,
+  "lon": 0.166017,
+  "x": 923.5,
+  "y": 356.2,
+  "hub": "940GZZLUDGE",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 3,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUDGY",
+  "name": "Dagenham Heathway",
+  "lines": [
+   "district"
+  ],
+  "zone": 5,
+  "lat": 51.541639,
+  "lon": 0.147527,
+  "x": 911.8,
+  "y": 359.6,
+  "hub": "940GZZLUDGY",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 3,
+   "parks": 0,
+   "culture": 0,
+   "markets": 1
+  },
+  "draft": "market",
+  "hook": "market"
+ },
+ {
+  "id": "940GZZLUDBN",
+  "name": "Debden",
+  "lines": [
+   "central"
+  ],
+  "zone": 6,
+  "lat": 51.645386,
+  "lon": 0.083782,
+  "x": 812.3,
+  "y": 130.2,
+  "hub": "940GZZLUDBN",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUDOH",
+  "name": "Dollis Hill",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 3,
+  "lat": 51.551955,
+  "lon": -0.239068,
+  "x": 285.4,
+  "y": 289.6,
+  "hub": "940GZZLUDOH",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 0,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Willesden Community Gardens; quiet, residential",
+  "hook": "Willesden Community Gardens; quiet, residential"
+ },
+ {
+  "id": "940GZZLUEBY",
+  "name": "Ealing Broadway",
+  "lines": [
+   "central",
+   "district"
+  ],
+  "zone": 3,
+  "lat": 51.515017,
+  "lon": -0.301457,
+  "x": 194.1,
+  "y": 420.7,
+  "hub": "HUBEAL",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 3,
+   "restaurants": 15,
+   "cafes": 22,
+   "parks": 3,
+   "culture": 4,
+   "markets": 3
+  },
+  "draft": "The Ealing Doll House, TK Maxx, The Sir Michael Balcon; pubs, restaurants, green, market",
+  "hook": "The Ealing Doll House, TK Maxx, The Sir Michael Balcon; pubs, restaurants, green, market"
+ },
+ {
+  "id": "940GZZLUECM",
+  "name": "Ealing Common",
+  "lines": [
+   "district",
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.51014,
+  "lon": -0.288265,
+  "x": 208.8,
+  "y": 436.3,
+  "hub": "940GZZLUECM",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 2,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUECT",
+  "name": "Earl's Court",
+  "lines": [
+   "district",
+   "piccadilly"
+  ],
+  "zone": 1.5,
+  "lat": 51.492063,
+  "lon": -0.193378,
+  "x": 361.3,
+  "y": 520.3,
+  "hub": "940GZZLUECT",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 2,
+   "restaurants": 34,
+   "cafes": 8,
+   "parks": 7,
+   "culture": 16,
+   "markets": 0
+  },
+  "draft": "Police Box, Philbeach Gardens, Earl's Court tube station (Earl's Court Road); pubs, restaurants, theatres and galleries, green",
+  "hook": "Kensington edge; pubs, cheap hotels, near Chelsea and the museums"
+ },
+ {
+  "id": "940GZZLUEAN",
+  "name": "East Acton",
+  "lines": [
+   "central"
+  ],
+  "zone": 2,
+  "lat": 51.516612,
+  "lon": -0.247248,
+  "x": 260.4,
+  "y": 415,
+  "hub": "940GZZLUEAN",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 1,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "The Green, East Acton; quiet, residential",
+  "hook": "The Green, East Acton; quiet, residential"
+ },
+ {
+  "id": "940GZZLUEFY",
+  "name": "East Finchley",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.587131,
+  "lon": -0.165012,
+  "x": 449.7,
+  "y": 168.2,
+  "hub": "940GZZLUEFY",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 3,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Cherry Tree Wood; local high street",
+  "hook": "Phoenix cinema, Cherry Tree Wood, quiet village high street"
+ },
+ {
+  "id": "940GZZLUEHM",
+  "name": "East Ham",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 3.5,
+  "lat": 51.538948,
+  "lon": 0.051186,
+  "x": 836,
+  "y": 353.7,
+  "hub": "940GZZLUEHM",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "East Ham Station; local high street",
+  "hook": "East Ham Station; local high street"
+ },
+ {
+  "id": "940GZZLUEPY",
+  "name": "East Putney",
+  "lines": [
+   "district"
+  ],
+  "zone": 2.5,
+  "lat": 51.459205,
+  "lon": -0.211,
+  "x": 347.2,
+  "y": 618.9,
+  "hub": "940GZZLUEPY",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 2,
+   "restaurants": 7,
+   "cafes": 8,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUEAE",
+  "name": "Eastcote",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 5,
+  "lat": 51.576506,
+  "lon": -0.397373,
+  "x": 123.6,
+  "y": 274.8,
+  "hub": "940GZZLUEAE",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUEGW",
+  "name": "Edgware",
+  "lines": [
+   "northern"
+  ],
+  "zone": 5,
+  "lat": 51.613653,
+  "lon": -0.274928,
+  "x": 274,
+  "y": 151,
+  "hub": "940GZZLUEGW",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 14,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 0,
+   "markets": 1
+  },
+  "draft": "restaurants, market",
+  "hook": "restaurants, market"
+ },
+ {
+  "id": "940GZZLUERC",
+  "name": "Edgware Road",
+  "lines": [
+   "circle",
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 1,
+  "lat": 51.519858,
+  "lon": -0.167832,
+  "x": 415,
+  "y": 395.6,
+  "hub": "940GZZLUERC",
+  "candidate": true,
+  "pois": {
+   "pubs": 14,
+   "bars": 3,
+   "restaurants": 33,
+   "cafes": 20,
+   "parks": 2,
+   "culture": 11,
+   "markets": 1
+  },
+  "draft": "Lisson Gallery, The Fan Bridge, Mark Jason Gallery; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "Little Cairo: Lebanese and Middle Eastern restaurants, shisha cafés, Marylebone edge"
+ },
+ {
+  "id": "940GZZLUERB",
+  "name": "Edgware Road (Bakerloo)",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 1,
+  "lat": 51.520299,
+  "lon": -0.17015,
+  "x": 408.8,
+  "y": 393.7,
+  "hub": "940GZZLUERB",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUEAC",
+  "name": "Elephant & Castle",
+  "lines": [
+   "bakerloo",
+   "northern"
+  ],
+  "zone": 1.5,
+  "lat": 51.494536,
+  "lon": -0.100606,
+  "x": 617.1,
+  "y": 514.3,
+  "hub": "HUBEPH",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 8,
+   "restaurants": 23,
+   "cafes": 21,
+   "parks": 6,
+   "culture": 9,
+   "markets": 2
+  },
+  "draft": "Elephant Park Market, West Square Gardens, The Cinema Museum; late-night bars, pubs, restaurants, theatres and galleries",
+  "hook": "Ministry of Sound, Latin American food, Mercato Metropolitano, cheap nights"
+ },
+ {
+  "id": "940GZZLUEPK",
+  "name": "Elm Park",
+  "lines": [
+   "district"
+  ],
+  "zone": 6,
+  "lat": 51.549775,
+  "lon": 0.19864,
+  "x": 942.6,
+  "y": 347.8,
+  "hub": "940GZZLUEPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUEMB",
+  "name": "Embankment",
+  "lines": [
+   "bakerloo",
+   "circle",
+   "district",
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.507058,
+  "lon": -0.122666,
+  "x": 564.6,
+  "y": 464.1,
+  "hub": "940GZZLUEMB",
+  "candidate": true,
+  "pois": {
+   "pubs": 22,
+   "bars": 12,
+   "restaurants": 41,
+   "cafes": 31,
+   "parks": 4,
+   "culture": 84,
+   "markets": 1
+  },
+  "draft": "Benjamin Franklin House, Victoria Embankment Gardens, British Optical Association Museum; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Thames riverside; Victoria Embankment Gardens, walk to South Bank, Gordon's wine bar"
+ },
+ {
+  "id": "940GZZLUEPG",
+  "name": "Epping",
+  "lines": [
+   "central"
+  ],
+  "zone": 6,
+  "lat": 51.69368,
+  "lon": 0.113767,
+  "x": 812.5,
+  "y": 68.9,
+  "hub": "940GZZLUEPG",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUEUS",
+  "name": "Euston",
+  "lines": [
+   "northern",
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.528344,
+  "lon": -0.1323,
+  "x": 532.3,
+  "y": 349.2,
+  "hub": "HUBEUS",
+  "candidate": true,
+  "pois": {
+   "pubs": 13,
+   "bars": 4,
+   "restaurants": 25,
+   "cafes": 27,
+   "parks": 3,
+   "culture": 28,
+   "markets": 1
+  },
+  "draft": "Chalton Street Market, Wellcome Collection, People's Museum Somers Town; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "Station area; Drummond Street curry, Bloomsbury pubs, British Library nearby"
+ },
+ {
+  "id": "940GZZLUESQ",
+  "name": "Euston Square",
+  "lines": [
+   "circle",
+   "hammersmith-city",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.525604,
+  "lon": -0.135829,
+  "x": 521.2,
+  "y": 361.9,
+  "hub": "940GZZLUESQ",
+  "candidate": true,
+  "pois": {
+   "pubs": 15,
+   "bars": 8,
+   "restaurants": 31,
+   "cafes": 32,
+   "parks": 2,
+   "culture": 38,
+   "markets": 0
+  },
+  "draft": "Wellcome Collection, UCL Art Museum, Grant Museum of Zoology; late-night bars, lots of pubs, restaurants, theatres and galleries",
+  "hook": "Bloomsbury; UCL, Wellcome Collection, quiet pubs"
+ },
+ {
+  "id": "940GZZLUFLP",
+  "name": "Fairlop",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.595618,
+  "lon": 0.091004,
+  "x": 848.2,
+  "y": 226.7,
+  "hub": "940GZZLUFLP",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUFCN",
+  "name": "Farringdon",
+  "lines": [
+   "circle",
+   "hammersmith-city",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.520252,
+  "lon": -0.104913,
+  "x": 613.7,
+  "y": 395.2,
+  "hub": "HUBZFD",
+  "candidate": true,
+  "pois": {
+   "pubs": 31,
+   "bars": 17,
+   "restaurants": 56,
+   "cafes": 44,
+   "parks": 8,
+   "culture": 34,
+   "markets": 2
+  },
+  "draft": "Leather Lane Market, Museum of the Order of St John, Smithfield Market; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Clerkenwell: Exmouth Market, Smithfield, cocktail bars, restaurants, warehouse clubs"
+ },
+ {
+  "id": "940GZZLUFYC",
+  "name": "Finchley Central",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.600921,
+  "lon": -0.192527,
+  "x": 399.4,
+  "y": 145.9,
+  "hub": "940GZZLUFYC",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 8,
+   "cafes": 9,
+   "parks": 5,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Stephens House & Grounds, Church End Gardens, Outdoor Learning Area; green",
+  "hook": "Stephens House & Grounds, Church End Gardens, Outdoor Learning Area; green"
+ },
+ {
+  "id": "940GZZLUFYR",
+  "name": "Finchley Road",
+  "lines": [
+   "jubilee",
+   "metropolitan"
+  ],
+  "zone": 2,
+  "lat": 51.546825,
+  "lon": -0.179845,
+  "x": 397.7,
+  "y": 283,
+  "hub": "940GZZLUFYR",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 17,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 9,
+   "markets": 1
+  },
+  "draft": "Freud Museum London; restaurants, theatres and galleries, market",
+  "hook": "O2 centre, Swiss Cottage; residential, Hampstead walk"
+ },
+ {
+  "id": "940GZZLUFPK",
+  "name": "Finsbury Park",
+  "lines": [
+   "piccadilly",
+   "victoria"
+  ],
+  "zone": 2,
+  "lat": 51.564158,
+  "lon": -0.106825,
+  "x": 585.8,
+  "y": 227.6,
+  "hub": "HUBFPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 3,
+   "restaurants": 26,
+   "cafes": 31,
+   "parks": 2,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "Gillespie Park Nature Reserve, Park Theatre, Woodfall Park; pubs, restaurants, green",
+  "hook": "The park, Rowans bowling, Stroud Green cafés, Arsenal pubs"
+ },
+ {
+  "id": "940GZZLUFBY",
+  "name": "Fulham Broadway",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.480081,
+  "lon": -0.195422,
+  "x": 364.6,
+  "y": 562.9,
+  "hub": "940GZZLUFBY",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 3,
+   "restaurants": 25,
+   "cafes": 11,
+   "parks": 0,
+   "culture": 5,
+   "markets": 0
+  },
+  "draft": "Cock Tavern; pubs, restaurants",
+  "hook": "Stamford Bridge, Fulham Road bars, brunch, young professional crowd"
+ },
+ {
+  "id": "940GZZLUGTH",
+  "name": "Gants Hill",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.576544,
+  "lon": 0.066185,
+  "x": 835.3,
+  "y": 261.2,
+  "hub": "940GZZLUGTH",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 13,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "restaurants",
+  "hook": "restaurants"
+ },
+ {
+  "id": "940GZZLUGTR",
+  "name": "Gloucester Road",
+  "lines": [
+   "circle",
+   "district",
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.494316,
+  "lon": -0.182658,
+  "x": 384.4,
+  "y": 515.4,
+  "hub": "940GZZLUGTR",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 5,
+   "restaurants": 31,
+   "cafes": 10,
+   "parks": 12,
+   "culture": 16,
+   "markets": 0
+  },
+  "draft": "Baden-Powell House, Cornwall Gardens, Dana Research Centre and Library; pubs, restaurants, theatres and galleries, green",
+  "hook": "South Kensington museums, Kensington pubs, hotels"
+ },
+ {
+  "id": "940GZZLUGGN",
+  "name": "Golders Green",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.572259,
+  "lon": -0.194039,
+  "x": 381.5,
+  "y": 211.5,
+  "hub": "940GZZLUGGN",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 8,
+   "cafes": 6,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUGHK",
+  "name": "Goldhawk Road",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.502005,
+  "lon": -0.226715,
+  "x": 293.6,
+  "y": 471.7,
+  "hub": "940GZZLUGHK",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 2,
+   "restaurants": 27,
+   "cafes": 11,
+   "parks": 1,
+   "culture": 4,
+   "markets": 3
+  },
+  "draft": "Shepherd's Bush Market, The New Shepherd's Bush Market, O2 Empire; pubs, restaurants, market",
+  "hook": "Shepherd's Bush Market, The New Shepherd's Bush Market, O2 Empire; pubs, restaurants, market"
+ },
+ {
+  "id": "940GZZLUGDG",
+  "name": "Goodge Street",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.520599,
+  "lon": -0.134361,
+  "x": 527.5,
+  "y": 388.5,
+  "hub": "940GZZLUGDG",
+  "candidate": true,
+  "pois": {
+   "pubs": 21,
+   "bars": 15,
+   "restaurants": 88,
+   "cafes": 45,
+   "parks": 8,
+   "culture": 55,
+   "markets": 1
+  },
+  "draft": "Goodge Place Market, Charles Burnand Gallery, BT Tower; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Fitzrovia: Charlotte Street restaurants, indie pubs, near Soho"
+ },
+ {
+  "id": "940GZZLUGGH",
+  "name": "Grange Hill",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.613378,
+  "lon": 0.092066,
+  "x": 839.3,
+  "y": 191.1,
+  "hub": "940GZZLUGGH",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUGPS",
+  "name": "Great Portland Street",
+  "lines": [
+   "circle",
+   "hammersmith-city",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.52384,
+  "lon": -0.144262,
+  "x": 491.6,
+  "y": 370.5,
+  "hub": "940GZZLUGPS",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 5,
+   "restaurants": 24,
+   "cafes": 19,
+   "parks": 3,
+   "culture": 45,
+   "markets": 0
+  },
+  "draft": "Park Square Gardens, Royal College of Physicians Museum, RIBA Library; pubs, restaurants, theatres and galleries, green",
+  "hook": "Park Square Gardens, Royal College of Physicians Museum, RIBA Library; pubs, restaurants, theatres and galleries, green"
+ },
+ {
+  "id": "940GZZLUGPK",
+  "name": "Green Park",
+  "lines": [
+   "jubilee",
+   "piccadilly",
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.506947,
+  "lon": -0.142787,
+  "x": 496.9,
+  "y": 467.8,
+  "hub": "940GZZLUGPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 14,
+   "bars": 13,
+   "restaurants": 77,
+   "cafes": 21,
+   "parks": 2,
+   "culture": 52,
+   "markets": 3
+  },
+  "draft": "Imitate Modern, The Green Park, Burlington Arcade; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Mayfair and St James's; Green Park picnics, Ritz, cocktail bars, Buckingham Palace"
+ },
+ {
+  "id": "940GZZLUGFD",
+  "name": "Greenford",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.542424,
+  "lon": -0.34605,
+  "x": 154.8,
+  "y": 346.1,
+  "hub": "HUBGFD",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUGBY",
+  "name": "Gunnersbury",
+  "lines": [
+   "district"
+  ],
+  "zone": 3,
+  "lat": 51.491803,
+  "lon": -0.275267,
+  "x": 228.2,
+  "y": 496.7,
+  "hub": "HUBGUN",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 2,
+   "restaurants": 2,
+   "cafes": 7,
+   "parks": 2,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "Harvard Hill Recreation Ground, Wellesley Road Playground; green",
+  "hook": "Harvard Hill Recreation Ground, Wellesley Road Playground; green"
+ },
+ {
+  "id": "940GZZLUHLT",
+  "name": "Hainault",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.603659,
+  "lon": 0.093482,
+  "x": 846.1,
+  "y": 210.9,
+  "hub": "940GZZLUHLT",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUHSC",
+  "name": "Hammersmith",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.49331,
+  "lon": -0.2243,
+  "x": 301.2,
+  "y": 505,
+  "hub": "HUBHMS",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 2,
+   "restaurants": 21,
+   "cafes": 18,
+   "parks": 1,
+   "culture": 4,
+   "markets": 4
+  },
+  "draft": "Thursday and Friday markets, Lyric Hammersmith Theatre, Eventim Apollo; pubs, restaurants, market",
+  "hook": "Riverside pubs by Hammersmith Bridge, Apollo gigs, Lyric theatre"
+ },
+ {
+  "id": "940GZZLUHSD",
+  "name": "Hammersmith (District/Piccadilly)",
+  "lines": [
+   "district",
+   "piccadilly"
+  ],
+  "zone": 2,
+  "lat": 51.4923,
+  "lon": -0.22362,
+  "x": 302.9,
+  "y": 508.9,
+  "hub": "HUBHMS",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUHTD",
+  "name": "Hampstead",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2.5,
+  "lat": 51.556239,
+  "lon": -0.177464,
+  "x": 408.9,
+  "y": 251.1,
+  "hub": "940GZZLUHTD",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 0,
+   "restaurants": 24,
+   "cafes": 11,
+   "parks": 0,
+   "culture": 25,
+   "markets": 1
+  },
+  "draft": "Community Market, Pentameter's theatre, Burgh House and Hampstead Museum; pubs, restaurants, theatres and galleries, market",
+  "hook": "Hampstead Heath walks, village pubs, ponds, Kenwood, cosy cafés"
+ },
+ {
+  "id": "940GZZLUHGR",
+  "name": "Hanger Lane",
+  "lines": [
+   "central"
+  ],
+  "zone": 3,
+  "lat": 51.530177,
+  "lon": -0.292704,
+  "x": 205.2,
+  "y": 373,
+  "hub": "940GZZLUHGR",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 1,
+   "restaurants": 3,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUHSN",
+  "name": "Harlesden",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 3,
+  "lat": 51.53631,
+  "lon": -0.257883,
+  "x": 249.9,
+  "y": 346.9,
+  "hub": "HUBHDN",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUHAW",
+  "name": "Harrow & Wealdstone",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 5,
+  "lat": 51.592268,
+  "lon": -0.335217,
+  "x": 188.2,
+  "y": 220.1,
+  "hub": "HUBHRW",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 7,
+   "cafes": 5,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUHOH",
+  "name": "Harrow-on-the-Hill",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 5,
+  "lat": 51.579195,
+  "lon": -0.337225,
+  "x": 178.7,
+  "y": 250.8,
+  "hub": "HUBHOH",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 1,
+   "restaurants": 19,
+   "cafes": 16,
+   "parks": 2,
+   "culture": 4,
+   "markets": 4
+  },
+  "draft": "The Moon on the Hill, Marks & Spencer, Lowlands Recreation Ground; pubs, restaurants, green, market",
+  "hook": "The Moon on the Hill, Marks & Spencer, Lowlands Recreation Ground; pubs, restaurants, green, market"
+ },
+ {
+  "id": "940GZZLUHNX",
+  "name": "Hatton Cross",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 5.5,
+  "lat": 51.466747,
+  "lon": -0.423191,
+  "x": 99.4,
+  "y": 530.9,
+  "hub": "940GZZLUHNX",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUHR4",
+  "name": "Heathrow Terminal 4",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.458524,
+  "lon": -0.445771,
+  "x": 86.3,
+  "y": 544,
+  "hub": "HUBHX4",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 3,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "The Courtyard Of Windows; local high street",
+  "hook": "The Courtyard Of Windows; local high street"
+ },
+ {
+  "id": "940GZZLUHR5",
+  "name": "Heathrow Terminal 5",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.470052,
+  "lon": -0.49056,
+  "x": 54.9,
+  "y": 512.7,
+  "hub": "HUBHX5",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 1,
+   "restaurants": 4,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "The Crown Rivers; local high street",
+  "hook": "The Crown Rivers; local high street"
+ },
+ {
+  "id": "940GZZLUHRC",
+  "name": "Heathrow Terminals 2 & 3",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.471235,
+  "lon": -0.452265,
+  "x": 78.3,
+  "y": 516,
+  "hub": "HUBH13",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 9,
+   "parks": 0,
+   "culture": 1,
+   "markets": 3
+  },
+  "draft": "The Queen's Arms, World Duty Free; pubs, market",
+  "hook": "The Queen's Arms, World Duty Free; pubs, market"
+ },
+ {
+  "id": "940GZZLUHCL",
+  "name": "Hendon Central",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3.5,
+  "lat": 51.583301,
+  "lon": -0.226424,
+  "x": 327.6,
+  "y": 196.7,
+  "hub": "940GZZLUHCL",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 5,
+   "parks": 1,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUHBT",
+  "name": "High Barnet",
+  "lines": [
+   "northern"
+  ],
+  "zone": 5,
+  "lat": 51.650541,
+  "lon": -0.194298,
+  "x": 414.4,
+  "y": 64.3,
+  "hub": "940GZZLUHBT",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 2,
+   "parks": 2,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Barnet Hill Common, Red Lion, New Barnet Reservoir; green",
+  "hook": "Barnet Hill Common, Red Lion, New Barnet Reservoir; green"
+ },
+ {
+  "id": "940GZZLUHSK",
+  "name": "High Street Kensington",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.501055,
+  "lon": -0.192792,
+  "x": 357.7,
+  "y": 483.7,
+  "hub": "940GZZLUHSK",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 6,
+   "restaurants": 45,
+   "cafes": 19,
+   "parks": 6,
+   "culture": 27,
+   "markets": 4
+  },
+  "draft": "The Roof Gardens, High Street Kensington Farmers' Market, Kensington Square; pubs, packed with restaurants, theatres and galleries, green",
+  "hook": "The Roof Gardens, High Street Kensington Farmers' Market, Kensington Square; pubs, packed with restaurants, theatres and galleries, green"
+ },
+ {
+  "id": "940GZZLUHAI",
+  "name": "Highbury & Islington",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 2,
+  "lat": 51.54635,
+  "lon": -0.103324,
+  "x": 604.2,
+  "y": 284.9,
+  "hub": "HUBHHY",
+  "candidate": true,
+  "pois": {
+   "pubs": 12,
+   "bars": 7,
+   "restaurants": 16,
+   "cafes": 24,
+   "parks": 4,
+   "culture": 5,
+   "markets": 0
+  },
+  "draft": "Estorick Collection, Highbury Fields, The White Swan; lots of pubs, restaurants",
+  "hook": "Highbury Fields, Union Chapel gigs, gastropubs, Upper Street"
+ },
+ {
+  "id": "940GZZLUHGT",
+  "name": "Highgate",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.577532,
+  "lon": -0.145857,
+  "x": 490.9,
+  "y": 187.9,
+  "hub": "940GZZLUHGT",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "Both Gallery, Jacksons Lane, The Wildlife Trail; pubs",
+  "hook": "Highgate village pubs, cemetery, Parliament Hill views, the Heath"
+ },
+ {
+  "id": "940GZZLUHGD",
+  "name": "Hillingdon",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.553715,
+  "lon": -0.449828,
+  "x": 78.5,
+  "y": 335.3,
+  "hub": "940GZZLUHGD",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUHBN",
+  "name": "Holborn",
+  "lines": [
+   "central",
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.51758,
+  "lon": -0.120475,
+  "x": 572.7,
+  "y": 407.2,
+  "hub": "940GZZLUHBN",
+  "candidate": true,
+  "pois": {
+   "pubs": 23,
+   "bars": 12,
+   "restaurants": 77,
+   "cafes": 59,
+   "parks": 3,
+   "culture": 40,
+   "markets": 0
+  },
+  "draft": "Red Lion Square Gardens, Sir John Soane's Museum, Bloomsbury Square Gardens; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "British Museum, Lincoln's Inn, Sir John Soane's museum; pubs, Covent Garden edge"
+ },
+ {
+  "id": "940GZZLUHPK",
+  "name": "Holland Park",
+  "lines": [
+   "central"
+  ],
+  "zone": 2,
+  "lat": 51.507143,
+  "lon": -0.205679,
+  "x": 329.3,
+  "y": 454.8,
+  "hub": "940GZZLUHPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 7,
+   "cafes": 5,
+   "parks": 5,
+   "culture": 16,
+   "markets": 0
+  },
+  "draft": "The Cosmic House, Lord Holland, Campden Hill Square; theatres and galleries, green",
+  "hook": "The Cosmic House, Lord Holland, Campden Hill Square; theatres and galleries, green"
+ },
+ {
+  "id": "940GZZLUHWY",
+  "name": "Holloway Road",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 2,
+  "lat": 51.552697,
+  "lon": -0.113244,
+  "x": 576.2,
+  "y": 260,
+  "hub": "940GZZLUHWY",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 4,
+   "restaurants": 17,
+   "cafes": 18,
+   "parks": 2,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "The Coronet, Biddestone Park, Penn Road Gardens; pubs, restaurants, green",
+  "hook": "Emirates Stadium, student pubs, Holloway Road shops"
+ },
+ {
+  "id": "940GZZLUHCH",
+  "name": "Hornchurch",
+  "lines": [
+   "district"
+  ],
+  "zone": 6,
+  "lat": 51.554093,
+  "lon": 0.219116,
+  "x": 953.6,
+  "y": 341.5,
+  "hub": "940GZZLUHCH",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUHWC",
+  "name": "Hounslow Central",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.471295,
+  "lon": -0.366578,
+  "x": 142.2,
+  "y": 532.4,
+  "hub": "940GZZLUHWC",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 6,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 3,
+   "markets": 1
+  },
+  "draft": "TK Maxx; market",
+  "hook": "TK Maxx; market"
+ },
+ {
+  "id": "940GZZLUHWE",
+  "name": "Hounslow East",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.473213,
+  "lon": -0.356474,
+  "x": 150.3,
+  "y": 530,
+  "hub": "940GZZLUHWE",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 15,
+   "cafes": 5,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Kingsley Park; restaurants",
+  "hook": "Kingsley Park; restaurants"
+ },
+ {
+  "id": "940GZZLUHWT",
+  "name": "Hounslow West",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 5,
+  "lat": 51.473469,
+  "lon": -0.386544,
+  "x": 124.9,
+  "y": 522.9,
+  "hub": "940GZZLUHWT",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 6,
+   "cafes": 1,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Beaversfield Park; local high street",
+  "hook": "Beaversfield Park; local high street"
+ },
+ {
+  "id": "940GZZLUHPC",
+  "name": "Hyde Park Corner",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.503035,
+  "lon": -0.152441,
+  "x": 464.4,
+  "y": 486.2,
+  "hub": "940GZZLUHPC",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 6,
+   "restaurants": 19,
+   "cafes": 6,
+   "parks": 2,
+   "culture": 28,
+   "markets": 0
+  },
+  "draft": "Apsley House, Wellington Arch, Wellington Monument; pubs, restaurants, theatres and galleries, green",
+  "hook": "Hyde Park, Wellington Arch, Knightsbridge and Mayfair hotels, posh bars"
+ },
+ {
+  "id": "940GZZLUICK",
+  "name": "Ickenham",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.561992,
+  "lon": -0.442001,
+  "x": 85.8,
+  "y": 316.2,
+  "hub": "940GZZLUICK",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUKNG",
+  "name": "Kennington",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1.5,
+  "lat": 51.488337,
+  "lon": -0.105963,
+  "x": 600.4,
+  "y": 540.6,
+  "hub": "940GZZLUKNG",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 0,
+   "restaurants": 7,
+   "cafes": 5,
+   "parks": 2,
+   "culture": 6,
+   "markets": 0
+  },
+  "draft": "Cleaver Square, White Bear Theatre Pub, The Camera Club; pubs, green",
+  "hook": "Kennington Park, local pubs, Oval cricket, quiet Georgian streets"
+ },
+ {
+  "id": "940GZZLUKSL",
+  "name": "Kensal Green",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 2,
+  "lat": 51.530539,
+  "lon": -0.225016,
+  "x": 297.2,
+  "y": 359.9,
+  "hub": "HUBKNL",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 2,
+   "parks": 1,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "Flow, Wilder, Kensal Green Cemetery; local high street",
+  "hook": "Flow, Wilder, Kensal Green Cemetery; local high street"
+ },
+ {
+  "id": "940GZZLUKOY",
+  "name": "Kensington",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.497624,
+  "lon": -0.210015,
+  "x": 324.6,
+  "y": 492.8,
+  "hub": "HUBKPA",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 10,
+   "cafes": 7,
+   "parks": 2,
+   "culture": 9,
+   "markets": 0
+  },
+  "draft": "British Airways Theatre, Russell Road Kitchen Garden, Marcus Garvey Park; theatres and galleries, green",
+  "hook": "British Airways Theatre, Russell Road Kitchen Garden, Marcus Garvey Park; theatres and galleries, green"
+ },
+ {
+  "id": "940GZZLUKSH",
+  "name": "Kentish Town",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.550312,
+  "lon": -0.140733,
+  "x": 503.3,
+  "y": 262.8,
+  "hub": "HUBKTN",
+  "candidate": true,
+  "pois": {
+   "pubs": 7,
+   "bars": 2,
+   "restaurants": 22,
+   "cafes": 10,
+   "parks": 3,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "O2 Forum Kentish Town, Lion and Unicorn, The Assembly House; pubs, restaurants, green",
+  "hook": "O2 Forum gigs, music pubs, Hampstead Heath walk, Kentish Town City Farm"
+ },
+ {
+  "id": "940GZZLUKEN",
+  "name": "Kenton",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 4,
+  "lat": 51.581756,
+  "lon": -0.31691,
+  "x": 201.5,
+  "y": 237.5,
+  "hub": "HUBKNT",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 8,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUKWG",
+  "name": "Kew Gardens",
+  "lines": [
+   "district"
+  ],
+  "zone": 3.5,
+  "lat": 51.477058,
+  "lon": -0.285241,
+  "x": 222.4,
+  "y": 538.8,
+  "hub": "HUBKWG",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 8,
+   "cafes": 10,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Kew Art Studio, St Luke's Open Space; local high street",
+  "hook": "Kew Art Studio, St Luke's Open Space; local high street"
+ },
+ {
+  "id": "940GZZLUKBN",
+  "name": "Kilburn",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.547183,
+  "lon": -0.204248,
+  "x": 344.2,
+  "y": 291.6,
+  "hub": "940GZZLUKBN",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 2,
+   "restaurants": 6,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 9,
+   "markets": 0
+  },
+  "draft": "theatres and galleries",
+  "hook": "Kilburn High Road; Irish pubs, Kiln theatre, cheap eats"
+ },
+ {
+  "id": "940GZZLUKPK",
+  "name": "Kilburn Park",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 2,
+  "lat": 51.534979,
+  "lon": -0.194232,
+  "x": 357.4,
+  "y": 333.5,
+  "hub": "940GZZLUKPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 1,
+   "restaurants": 6,
+   "cafes": 1,
+   "parks": 3,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Cambridge Gardens, The Prince of Wales, The Old Bell; pubs, green",
+  "hook": "Cambridge Gardens, The Prince of Wales, The Old Bell; pubs, green"
+ },
+ {
+  "id": "940GZZLUKSX",
+  "name": "King's Cross St. Pancras",
+  "lines": [
+   "circle",
+   "hammersmith-city",
+   "metropolitan",
+   "northern",
+   "piccadilly",
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.530663,
+  "lon": -0.123194,
+  "x": 559.9,
+  "y": 340.7,
+  "hub": "HUBKGX",
+  "candidate": true,
+  "pois": {
+   "pubs": 19,
+   "bars": 12,
+   "restaurants": 49,
+   "cafes": 49,
+   "parks": 1,
+   "culture": 32,
+   "markets": 2
+  },
+  "draft": "Real Food Market, Argyle Square Gardens, Restored K6 phone booth; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Coal Drops Yard, Granary Square canal, restaurants, British Library, Camley Street park"
+ },
+ {
+  "id": "940GZZLUKBY",
+  "name": "Kingsbury",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 4,
+  "lat": 51.584845,
+  "lon": -0.27879,
+  "x": 249.6,
+  "y": 215.2,
+  "hub": "940GZZLUKBY",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 1,
+   "restaurants": 1,
+   "cafes": 3,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "J.J. Moon's, Leybourne Road Park; local high street",
+  "hook": "J.J. Moon's, Leybourne Road Park; local high street"
+ },
+ {
+  "id": "940GZZLUKNB",
+  "name": "Knightsbridge",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.501669,
+  "lon": -0.160508,
+  "x": 439.7,
+  "y": 490.7,
+  "hub": "940GZZLUKNB",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 2,
+   "restaurants": 37,
+   "cafes": 11,
+   "parks": 6,
+   "culture": 14,
+   "markets": 3
+  },
+  "draft": "Lowndes Square Gardens, Harvey Nichols, Trevor Square; pubs, restaurants, theatres and galleries, green",
+  "hook": "Harrods, Harvey Nichols, Hyde Park, Sloane Street; posh restaurants and bars"
+ },
+ {
+  "id": "940GZZLULAD",
+  "name": "Ladbroke Grove",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.517449,
+  "lon": -0.210391,
+  "x": 319.6,
+  "y": 410.6,
+  "hub": "940GZZLULAD",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 1,
+   "restaurants": 27,
+   "cafes": 16,
+   "parks": 3,
+   "culture": 9,
+   "markets": 4
+  },
+  "draft": "Portobello Green Market, Museum of Brands, Portobello Market; pubs, restaurants, theatres and galleries, green",
+  "hook": "Portobello Road market, Notting Hill Carnival, vintage, Golborne Road cafés"
+ },
+ {
+  "id": "940GZZLULBN",
+  "name": "Lambeth North",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 1,
+  "lat": 51.498808,
+  "lon": -0.112315,
+  "x": 590.1,
+  "y": 500.3,
+  "hub": "940GZZLULBN",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 8,
+   "restaurants": 25,
+   "cafes": 26,
+   "parks": 5,
+   "culture": 30,
+   "markets": 1
+  },
+  "draft": "Lower Marsh Market, Archbishop's Park, The Florence Nightingale Museum; late-night bars, pubs, restaurants, theatres and galleries",
+  "hook": "Lower Marsh Market, Archbishop's Park, The Florence Nightingale Museum; late-night bars, pubs, restaurants, theatres and galleries"
+ },
+ {
+  "id": "940GZZLULGT",
+  "name": "Lancaster Gate",
+  "lines": [
+   "central"
+  ],
+  "zone": 1,
+  "lat": 51.511723,
+  "lon": -0.175494,
+  "x": 394.5,
+  "y": 437.7,
+  "hub": "940GZZLULGT",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 2,
+   "restaurants": 22,
+   "cafes": 17,
+   "parks": 7,
+   "culture": 13,
+   "markets": 0
+  },
+  "draft": "Italian Gardens, Dellasposa Gallery, The Swan; pubs, restaurants, theatres and galleries, green",
+  "hook": "Kensington Gardens and Hyde Park; Italian Gardens, Bayswater hotels"
+ },
+ {
+  "id": "940GZZLULRD",
+  "name": "Latimer Road",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.513389,
+  "lon": -0.217799,
+  "x": 306.4,
+  "y": 427.5,
+  "hub": "940GZZLULRD",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 3,
+   "parks": 3,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "Unit 1 Gallery & Workshop, Louise Blouin Foundation, Centre Stage; green",
+  "hook": "Unit 1 Gallery & Workshop, Louise Blouin Foundation, Centre Stage; green"
+ },
+ {
+  "id": "940GZZLULSQ",
+  "name": "Leicester Square",
+  "lines": [
+   "northern",
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.511386,
+  "lon": -0.128426,
+  "x": 548,
+  "y": 442,
+  "hub": "940GZZLULSQ",
+  "candidate": true,
+  "pois": {
+   "pubs": 51,
+   "bars": 60,
+   "restaurants": 346,
+   "cafes": 110,
+   "parks": 4,
+   "culture": 128,
+   "markets": 6
+  },
+  "draft": "Earlham Street Market, Cecil Court, Seven Dials Market; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Chinatown, West End cinemas and theatres, Soho edge, tourist crowds, late nights"
+ },
+ {
+  "id": "940GZZLULYN",
+  "name": "Leyton",
+  "lines": [
+   "central"
+  ],
+  "zone": 3,
+  "lat": 51.556589,
+  "lon": -0.005523,
+  "x": 767.4,
+  "y": 289.7,
+  "hub": "940GZZLULYN",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 3,
+   "restaurants": 8,
+   "cafes": 8,
+   "parks": 0,
+   "culture": 5,
+   "markets": 1
+  },
+  "draft": "East London Cabaret Theatre, TK Maxx; market",
+  "hook": "East London Cabaret Theatre, TK Maxx; market"
+ },
+ {
+  "id": "940GZZLULYS",
+  "name": "Leytonstone",
+  "lines": [
+   "central"
+  ],
+  "zone": 3.5,
+  "lat": 51.568324,
+  "lon": 0.008194,
+  "x": 777.7,
+  "y": 262.1,
+  "hub": "940GZZLULYS",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 3,
+   "restaurants": 16,
+   "cafes": 9,
+   "parks": 1,
+   "culture": 12,
+   "markets": 0
+  },
+  "draft": "The Stone Space, The Walnut Tree, Church Lane Community Garden; restaurants, theatres and galleries",
+  "hook": "The Stone Space, The Walnut Tree, Church Lane Community Garden; restaurants, theatres and galleries"
+ },
+ {
+  "id": "940GZZLULVT",
+  "name": "Liverpool Street",
+  "lines": [
+   "central",
+   "circle",
+   "hammersmith-city",
+   "metropolitan"
+  ],
+  "zone": 1,
+  "lat": 51.517372,
+  "lon": -0.083182,
+  "x": 661.9,
+  "y": 410.5,
+  "hub": "HUBLST",
+  "candidate": true,
+  "pois": {
+   "pubs": 22,
+   "bars": 27,
+   "restaurants": 74,
+   "cafes": 61,
+   "parks": 4,
+   "culture": 49,
+   "markets": 2
+  },
+  "draft": "Finsbury Circus Gardens, Broadgate Farmers' Market, Police Call Box; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Spitalfields Market, Shoreditch edge, Brick Lane, City bars, Dennis Severs' House"
+ },
+ {
+  "id": "940GZZLULNB",
+  "name": "London Bridge",
+  "lines": [
+   "jubilee",
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.505721,
+  "lon": -0.088873,
+  "x": 648.8,
+  "y": 462.9,
+  "hub": "HUBLBG",
+  "candidate": true,
+  "pois": {
+   "pubs": 21,
+   "bars": 16,
+   "restaurants": 66,
+   "cafes": 34,
+   "parks": 3,
+   "culture": 41,
+   "markets": 3
+  },
+  "draft": "Borough Market, Old Operating Theatre Museum, London Bridge Experience; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Borough Market, the Shard, Bankside, Tate Modern walk, riverside pubs"
+ },
+ {
+  "id": "940GZZLULGN",
+  "name": "Loughton",
+  "lines": [
+   "central"
+  ],
+  "zone": 6,
+  "lat": 51.641443,
+  "lon": 0.055476,
+  "x": 785.7,
+  "y": 126,
+  "hub": "940GZZLULGN",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUMVL",
+  "name": "Maida Vale",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 2,
+  "lat": 51.529777,
+  "lon": -0.185758,
+  "x": 373.6,
+  "y": 352.6,
+  "hub": "940GZZLUMVL",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 5,
+   "cafes": 6,
+   "parks": 2,
+   "culture": 5,
+   "markets": 0
+  },
+  "draft": "Paddington Recreation Ground, Warrington, Rose Garden; green",
+  "hook": "Little Venice canal, quiet mansion blocks, Warrington pub"
+ },
+ {
+  "id": "940GZZLUMRH",
+  "name": "Manor House",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 2.5,
+  "lat": 51.570738,
+  "lon": -0.096118,
+  "x": 606.1,
+  "y": 213.2,
+  "hub": "940GZZLUMRH",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 4,
+   "parks": 3,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "Museum of Homelessness, Finsbury Park, St Olave's Woodberry Down; green",
+  "hook": "Museum of Homelessness, Finsbury Park, St Olave's Woodberry Down; green"
+ },
+ {
+  "id": "940GZZLUMSH",
+  "name": "Mansion House",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.512117,
+  "lon": -0.094009,
+  "x": 639.2,
+  "y": 434.5,
+  "hub": "940GZZLUMSH",
+  "candidate": true,
+  "pois": {
+   "pubs": 19,
+   "bars": 18,
+   "restaurants": 60,
+   "cafes": 27,
+   "parks": 10,
+   "culture": 63,
+   "markets": 1
+  },
+  "draft": "St. Mary-Le-Bow, St Peter Cheap churchyard, St Paul's Churchyard; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "City riverside; Tate Modern over Millennium Bridge, St Paul's, quiet weekends"
+ },
+ {
+  "id": "940GZZLUMBA",
+  "name": "Marble Arch",
+  "lines": [
+   "central"
+  ],
+  "zone": 1,
+  "lat": 51.513424,
+  "lon": -0.158953,
+  "x": 440.4,
+  "y": 430.1,
+  "hub": "940GZZLUMBA",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 6,
+   "restaurants": 41,
+   "cafes": 17,
+   "parks": 3,
+   "culture": 25,
+   "markets": 1
+  },
+  "draft": "Moco Museum, Speakers' Corner; pubs, packed with restaurants, theatres and galleries, green",
+  "hook": "Hyde Park, Speakers' Corner, Oxford Street west, Edgware Road restaurants"
+ },
+ {
+  "id": "940GZZLUMYB",
+  "name": "Marylebone",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 1,
+  "lat": 51.522322,
+  "lon": -0.163207,
+  "x": 428.9,
+  "y": 381.9,
+  "hub": "HUBMYB",
+  "candidate": true,
+  "pois": {
+   "pubs": 12,
+   "bars": 2,
+   "restaurants": 23,
+   "cafes": 21,
+   "parks": 1,
+   "culture": 29,
+   "markets": 0
+  },
+  "draft": "Dorset Square, 221B Baker Street, Sherlock Holmes Museum; lots of pubs, restaurants, theatres and galleries",
+  "hook": "Dorset Square, 221B Baker Street, Sherlock Holmes Museum; lots of pubs, restaurants, theatres and galleries"
+ },
+ {
+  "id": "940GZZLUMED",
+  "name": "Mile End",
+  "lines": [
+   "central",
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.525122,
+  "lon": -0.03364,
+  "x": 742.8,
+  "y": 384.4,
+  "hub": "940GZZLUMED",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 0,
+   "restaurants": 7,
+   "cafes": 14,
+   "parks": 5,
+   "culture": 14,
+   "markets": 0
+  },
+  "draft": "Tredegar Square, Mile End Park, The Art Pavilion; pubs, theatres and galleries, green",
+  "hook": "Mile End Park, canal, Regent's Canal towpath, students, Victoria Park walk"
+ },
+ {
+  "id": "940GZZLUMHL",
+  "name": "Mill Hill East",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.608229,
+  "lon": -0.209986,
+  "x": 371.2,
+  "y": 137,
+  "hub": "940GZZLUMHL",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUMMT",
+  "name": "Monument",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.5107,
+  "lon": -0.085969,
+  "x": 656,
+  "y": 440.3,
+  "hub": "940GZZLUMMT",
+  "candidate": true,
+  "pois": {
+   "pubs": 33,
+   "bars": 26,
+   "restaurants": 55,
+   "cafes": 37,
+   "parks": 5,
+   "culture": 55,
+   "markets": 3
+  },
+  "draft": "Leadenhall Market, ARTE DELUX, London Bridge; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "The Monument, Leadenhall Market, City pubs, Tower Bridge walk"
+ },
+ {
+  "id": "940GZZLUMPK",
+  "name": "Moor Park",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 6.5,
+  "lat": 51.629845,
+  "lon": -0.432454,
+  "x": 121.9,
+  "y": 180,
+  "hub": "940GZZLUMPK",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUMGT",
+  "name": "Moorgate",
+  "lines": [
+   "circle",
+   "hammersmith-city",
+   "metropolitan",
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.518176,
+  "lon": -0.088322,
+  "x": 651.4,
+  "y": 406.6,
+  "hub": "HUBZMG",
+  "candidate": true,
+  "pois": {
+   "pubs": 12,
+   "bars": 10,
+   "restaurants": 29,
+   "cafes": 38,
+   "parks": 9,
+   "culture": 48,
+   "markets": 2
+  },
+  "draft": "British Red Cross Museum, Finsbury Circus Gardens, St Alphage Gardens; late-night bars, lots of pubs, restaurants, theatres and galleries",
+  "hook": "City and Barbican; office bars, quiet weekends, Finsbury Circus"
+ },
+ {
+  "id": "940GZZLUMDN",
+  "name": "Morden",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.402142,
+  "lon": -0.194839,
+  "x": 406.1,
+  "y": 741.9,
+  "hub": "940GZZLUMDN",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 13,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "restaurants",
+  "hook": "restaurants"
+ },
+ {
+  "id": "940GZZLUMTC",
+  "name": "Mornington Crescent",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.534679,
+  "lon": -0.138789,
+  "x": 510,
+  "y": 320.3,
+  "hub": "940GZZLUMTC",
+  "candidate": true,
+  "pois": {
+   "pubs": 11,
+   "bars": 5,
+   "restaurants": 27,
+   "cafes": 17,
+   "parks": 2,
+   "culture": 11,
+   "markets": 0
+  },
+  "draft": "David Roberts Art Foundation, Theatro Technis, The Purple Turtle; lots of pubs, restaurants, theatres and galleries",
+  "hook": "Camden's quieter end; Koko gigs, pubs"
+ },
+ {
+  "id": "940GZZLUNDN",
+  "name": "Neasden",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 3,
+  "lat": 51.553986,
+  "lon": -0.249837,
+  "x": 270.1,
+  "y": 287.3,
+  "hub": "940GZZLUNDN",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUNBP",
+  "name": "Newbury Park",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.575726,
+  "lon": 0.090004,
+  "x": 857.2,
+  "y": 270.2,
+  "hub": "940GZZLUNBP",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 0,
+   "parks": 1,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZNEUGST",
+  "name": "Nine Elms",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.479912,
+  "lon": -0.128476,
+  "x": 537.1,
+  "y": 576.8,
+  "hub": "940GZZNEUGST",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 1,
+   "restaurants": 10,
+   "cafes": 12,
+   "parks": 0,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "pubs",
+  "hook": "pubs"
+ },
+ {
+  "id": "940GZZLUNAN",
+  "name": "North Acton",
+  "lines": [
+   "central"
+  ],
+  "zone": 2.5,
+  "lat": 51.523524,
+  "lon": -0.259755,
+  "x": 244,
+  "y": 391,
+  "hub": "940GZZLUNAN",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 2,
+   "restaurants": 3,
+   "cafes": 1,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "North Acton Triangle; local high street",
+  "hook": "North Acton Triangle; local high street"
+ },
+ {
+  "id": "940GZZLUNEN",
+  "name": "North Ealing",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.517505,
+  "lon": -0.288868,
+  "x": 207.9,
+  "y": 412.7,
+  "hub": "940GZZLUNEN",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUNGW",
+  "name": "North Greenwich",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2.5,
+  "lat": 51.50047,
+  "lon": 0.004287,
+  "x": 789.7,
+  "y": 467,
+  "hub": "HUBNGW",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 4,
+   "restaurants": 21,
+   "cafes": 6,
+   "parks": 1,
+   "culture": 14,
+   "markets": 0
+  },
+  "draft": "Up at the O2 Base Camp, Firepit Art Gallery, The O2 Arena; restaurants, theatres and galleries",
+  "hook": "The O2 arena gigs, cable car, Greenwich Peninsula riverside, Now Gallery"
+ },
+ {
+  "id": "940GZZLUNHA",
+  "name": "North Harrow",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 5,
+  "lat": 51.584872,
+  "lon": -0.362408,
+  "x": 157.5,
+  "y": 246,
+  "hub": "940GZZLUNHA",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUNWY",
+  "name": "North Wembley",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 4,
+  "lat": 51.562551,
+  "lon": -0.304,
+  "x": 205.1,
+  "y": 281.6,
+  "hub": "HUBNWB",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 1,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUNFD",
+  "name": "Northfields",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.499319,
+  "lon": -0.314719,
+  "x": 182,
+  "y": 467,
+  "hub": "940GZZLUNFD",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 8,
+   "cafes": 8,
+   "parks": 2,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Bramley Road Open Space, Fielding Walk; green",
+  "hook": "Bramley Road Open Space, Fielding Walk; green"
+ },
+ {
+  "id": "940GZZLUNHT",
+  "name": "Northolt",
+  "lines": [
+   "central"
+  ],
+  "zone": 5,
+  "lat": 51.548236,
+  "lon": -0.368699,
+  "x": 136.8,
+  "y": 335,
+  "hub": "940GZZLUNHT",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUNKP",
+  "name": "Northwick Park",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 4,
+  "lat": 51.578481,
+  "lon": -0.318056,
+  "x": 198.4,
+  "y": 245.8,
+  "hub": "940GZZLUNKP",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 2,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Northwick Park Community Garden; local high street",
+  "hook": "Northwick Park Community Garden; local high street"
+ },
+ {
+  "id": "940GZZLUNOW",
+  "name": "Northwood",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 6,
+  "lat": 51.611053,
+  "lon": -0.423829,
+  "x": 118.9,
+  "y": 211.6,
+  "hub": "940GZZLUNOW",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUNWH",
+  "name": "Northwood Hills",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 6,
+  "lat": 51.600572,
+  "lon": -0.409464,
+  "x": 125,
+  "y": 227.6,
+  "hub": "940GZZLUNWH",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUNHG",
+  "name": "Notting Hill Gate",
+  "lines": [
+   "central",
+   "circle",
+   "district"
+  ],
+  "zone": 1.5,
+  "lat": 51.509128,
+  "lon": -0.196104,
+  "x": 347.9,
+  "y": 447.5,
+  "hub": "940GZZLUNHG",
+  "candidate": true,
+  "pois": {
+   "pubs": 10,
+   "bars": 4,
+   "restaurants": 27,
+   "cafes": 19,
+   "parks": 1,
+   "culture": 24,
+   "markets": 1
+  },
+  "draft": "Notting Hill Farmers' Market, Pembridge Square Garden, The Coronet Theatre; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "Portobello Road market, Notting Hill, Kensington Gardens, Electric cinema, boutiques"
+ },
+ {
+  "id": "940GZZLUOAK",
+  "name": "Oakwood",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 5,
+  "lat": 51.647726,
+  "lon": -0.132182,
+  "x": 516.3,
+  "y": 63.3,
+  "hub": "940GZZLUOAK",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 5,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUODS",
+  "name": "Old Street",
+  "lines": [
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.525864,
+  "lon": -0.08777,
+  "x": 650.7,
+  "y": 372.4,
+  "hub": "HUBOLD",
+  "candidate": true,
+  "pois": {
+   "pubs": 11,
+   "bars": 16,
+   "restaurants": 38,
+   "cafes": 21,
+   "parks": 6,
+   "culture": 19,
+   "markets": 0
+  },
+  "draft": "Museum of Methodism, Charles Square, Honourable Artillery Company Museum; late-night bars, lots of pubs, restaurants, theatres and galleries",
+  "hook": "Shoreditch: bars, clubs, street art, Boxpark, Hoxton, tech crowd, late nights"
+ },
+ {
+  "id": "940GZZLUOSY",
+  "name": "Osterley",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.481274,
+  "lon": -0.352224,
+  "x": 151.3,
+  "y": 510.5,
+  "hub": "940GZZLUOSY",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUOVL",
+  "name": "Oval",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.48185,
+  "lon": -0.112439,
+  "x": 580.3,
+  "y": 566.1,
+  "hub": "940GZZLUOVL",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 12,
+   "cafes": 12,
+   "parks": 6,
+   "culture": 9,
+   "markets": 1
+  },
+  "draft": "Oval Farmers' Market, St Mark's Churchyard, Ovalhouse Theatre; restaurants, theatres and galleries, green, market",
+  "hook": "The Oval cricket ground, Kennington pubs, Vauxhall nearby"
+ },
+ {
+  "id": "940GZZLUOXC",
+  "name": "Oxford Circus",
+  "lines": [
+   "bakerloo",
+   "central",
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.515224,
+  "lon": -0.141903,
+  "x": 500,
+  "y": 420,
+  "hub": "940GZZLUOXC",
+  "candidate": true,
+  "pois": {
+   "pubs": 27,
+   "bars": 30,
+   "restaurants": 117,
+   "cafes": 60,
+   "parks": 2,
+   "culture": 60,
+   "markets": 6
+  },
+  "draft": "Twist Museum, Unit London, Hanover Square; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Oxford Street and Regent Street shopping, Carnaby Street, Soho, Liberty"
+ },
+ {
+  "id": "940GZZLUPAC",
+  "name": "Paddington",
+  "lines": [
+   "bakerloo",
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.516581,
+  "lon": -0.175689,
+  "x": 393.8,
+  "y": 413.2,
+  "hub": "HUBPAD",
+  "candidate": true,
+  "pois": {
+   "pubs": 10,
+   "bars": 4,
+   "restaurants": 38,
+   "cafes": 33,
+   "parks": 4,
+   "culture": 22,
+   "markets": 0
+  },
+  "draft": "Norfolk Square Garden, The Rolling Bridge, The Fan Bridge; lots of pubs, restaurants, theatres and galleries",
+  "hook": "Little Venice canal, Merchant Square, Hyde Park; hotels, station pubs"
+ },
+ {
+  "id": "940GZZLUPAH",
+  "name": "Paddington (Circle/H&C)",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 1,
+  "lat": 51.518187,
+  "lon": -0.178306,
+  "x": 387.4,
+  "y": 405.3,
+  "hub": "HUBPAD",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUPKR",
+  "name": "Park Royal",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.527123,
+  "lon": -0.284341,
+  "x": 214.2,
+  "y": 381.6,
+  "hub": "940GZZLUPKR",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUPSG",
+  "name": "Parsons Green",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.475277,
+  "lon": -0.20117,
+  "x": 355.7,
+  "y": 576.2,
+  "hub": "940GZZLUPSG",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 0,
+   "restaurants": 19,
+   "cafes": 12,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Soan Studio, The White Horse; pubs, restaurants",
+  "hook": "The Green, White Horse pub, Fulham village, brunch"
+ },
+ {
+  "id": "940GZZLUPVL",
+  "name": "Perivale",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.536717,
+  "lon": -0.323446,
+  "x": 174.6,
+  "y": 358.1,
+  "hub": "940GZZLUPVL",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUPCC",
+  "name": "Piccadilly Circus",
+  "lines": [
+   "bakerloo",
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.51005,
+  "lon": -0.133798,
+  "x": 529.5,
+  "y": 450.3,
+  "hub": "940GZZLUPCC",
+  "candidate": true,
+  "pois": {
+   "pubs": 30,
+   "bars": 50,
+   "restaurants": 285,
+   "cafes": 74,
+   "parks": 6,
+   "culture": 109,
+   "markets": 4
+  },
+  "draft": "Piccadilly Market, Berwick Street Market; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "West End theatres, Soho, Chinatown, Regent Street, tourist heart, late bars"
+ },
+ {
+  "id": "940GZZLUPCO",
+  "name": "Pimlico",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.489097,
+  "lon": -0.133761,
+  "x": 524.4,
+  "y": 545.6,
+  "hub": "940GZZLUPCO",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 1,
+   "restaurants": 9,
+   "cafes": 7,
+   "parks": 4,
+   "culture": 16,
+   "markets": 0
+  },
+  "draft": "Bessborough Gardens, St. George's Square, Cabmen's Shelter; pubs, theatres and galleries, green",
+  "hook": "Tate Britain, Regency squares, quiet pubs, Thames path"
+ },
+ {
+  "id": "940GZZLUPNR",
+  "name": "Pinner",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 5,
+  "lat": 51.592901,
+  "lon": -0.381161,
+  "x": 144.8,
+  "y": 234.5,
+  "hub": "940GZZLUPNR",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUPLW",
+  "name": "Plaistow",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 3,
+  "lat": 51.531341,
+  "lon": 0.017451,
+  "x": 803.9,
+  "y": 370.6,
+  "hub": "940GZZLUPLW",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 4,
+   "parks": 1,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "Willow Cottage, Lister Gardens; local high street",
+  "hook": "Willow Cottage, Lister Gardens; local high street"
+ },
+ {
+  "id": "940GZZLUPRD",
+  "name": "Preston Road",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 4,
+  "lat": 51.571972,
+  "lon": -0.295107,
+  "x": 220.8,
+  "y": 253.7,
+  "hub": "940GZZLUPRD",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 3,
+   "restaurants": 3,
+   "cafes": 6,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Tenterden Sports Ground; local high street",
+  "hook": "Tenterden Sports Ground; local high street"
+ },
+ {
+  "id": "940GZZLUPYB",
+  "name": "Putney Bridge",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.468262,
+  "lon": -0.208731,
+  "x": 345.5,
+  "y": 594.5,
+  "hub": "940GZZLUPYB",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 7,
+   "parks": 1,
+   "culture": 12,
+   "markets": 0
+  },
+  "draft": "Fulham House, Fulham Pottery Kiln, The Eight Bells; pubs, theatres and galleries",
+  "hook": "Riverside pubs, Bishops Park, Thames path, Putney rowing"
+ },
+ {
+  "id": "940GZZLUQPS",
+  "name": "Queen's Park",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 2,
+  "lat": 51.534158,
+  "lon": -0.204574,
+  "x": 335.7,
+  "y": 340.2,
+  "hub": "HUBQPW",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 8,
+   "cafes": 9,
+   "parks": 2,
+   "culture": 1,
+   "markets": 1
+  },
+  "draft": "Queen's Park Farmers' Market, Pet's corner, Woodhouse Urban Park; green, market",
+  "hook": "Queen's Park Farmers' Market, Pet's corner, Woodhouse Urban Park; green, market"
+ },
+ {
+  "id": "940GZZLUQBY",
+  "name": "Queensbury",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 4,
+  "lat": 51.594188,
+  "lon": -0.286219,
+  "x": 246.1,
+  "y": 196.6,
+  "hub": "940GZZLUQBY",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUQWY",
+  "name": "Queensway",
+  "lines": [
+   "central"
+  ],
+  "zone": 1,
+  "lat": 51.510312,
+  "lon": -0.187152,
+  "x": 367,
+  "y": 443.2,
+  "hub": "940GZZLUQWY",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 1,
+   "restaurants": 32,
+   "cafes": 19,
+   "parks": 1,
+   "culture": 14,
+   "markets": 1
+  },
+  "draft": "Fake houses, The Leinster Arms, Corringham Garden; pubs, restaurants, theatres and galleries, market",
+  "hook": "Kensington Gardens, Hyde Park, Chinese and Middle Eastern restaurants"
+ },
+ {
+  "id": "940GZZLURVP",
+  "name": "Ravenscourt Park",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.494122,
+  "lon": -0.235881,
+  "x": 282,
+  "y": 498.7,
+  "hub": "940GZZLURVP",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 1,
+   "restaurants": 22,
+   "cafes": 14,
+   "parks": 1,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "William Morris Society, Jazz Cafe Posk, The Salutation; pubs, restaurants",
+  "hook": "The park, quiet residential, Hammersmith riverside walk"
+ },
+ {
+  "id": "940GZZLURYL",
+  "name": "Rayners Lane",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 5,
+  "lat": 51.575147,
+  "lon": -0.371127,
+  "x": 144.9,
+  "y": 270.7,
+  "hub": "940GZZLURYL",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLURBG",
+  "name": "Redbridge",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.576243,
+  "lon": 0.04536,
+  "x": 814.8,
+  "y": 255.1,
+  "hub": "940GZZLURBG",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLURGP",
+  "name": "Regent's Park",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 1,
+  "lat": 51.523344,
+  "lon": -0.146444,
+  "x": 483.8,
+  "y": 373.3,
+  "hub": "940GZZLURGP",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 3,
+   "restaurants": 10,
+   "cafes": 13,
+   "parks": 4,
+   "culture": 42,
+   "markets": 1
+  },
+  "draft": "Park Square Gardens, RIBA Library, Royal Institute of British Architects; pubs, theatres and galleries, green, market",
+  "hook": "Regent's Park, London Zoo, open-air theatre, Marylebone"
+ },
+ {
+  "id": "940GZZLURMD",
+  "name": "Richmond",
+  "lines": [
+   "district"
+  ],
+  "zone": 4,
+  "lat": 51.463237,
+  "lon": -0.301336,
+  "x": 210.7,
+  "y": 571.6,
+  "hub": "HUBRMD",
+  "candidate": true,
+  "pois": {
+   "pubs": 11,
+   "bars": 3,
+   "restaurants": 13,
+   "cafes": 23,
+   "parks": 1,
+   "culture": 8,
+   "markets": 1
+  },
+  "draft": "Richmond Theatre, The Works, Orange Tree Theatre; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "Richmond Park deer, riverside pubs, Richmond Green, Richmond Theatre"
+ },
+ {
+  "id": "940GZZLURKW",
+  "name": "Rickmansworth",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 7,
+  "lat": 51.640207,
+  "lon": -0.473703,
+  "x": 96.6,
+  "y": 175.5,
+  "hub": "910GRCKMNSW",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLURVY",
+  "name": "Roding Valley",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.617199,
+  "lon": 0.043647,
+  "x": 788.1,
+  "y": 165.3,
+  "hub": "940GZZLURVY",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLURYO",
+  "name": "Royal Oak",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.519113,
+  "lon": -0.188748,
+  "x": 363.2,
+  "y": 401.8,
+  "hub": "940GZZLURYO",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 2,
+   "restaurants": 15,
+   "cafes": 9,
+   "parks": 3,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "Porchester Square, Westbourne Gardens, Royal Oak (Meanwhile 2) Skatepark; restaurants, green",
+  "hook": "Porchester Square, Westbourne Gardens, Royal Oak (Meanwhile 2) Skatepark; restaurants, green"
+ },
+ {
+  "id": "940GZZLURSP",
+  "name": "Ruislip",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.571354,
+  "lon": -0.421898,
+  "x": 102.9,
+  "y": 292,
+  "hub": "940GZZLURSP",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLURSG",
+  "name": "Ruislip Gardens",
+  "lines": [
+   "central"
+  ],
+  "zone": 5,
+  "lat": 51.560736,
+  "lon": -0.41071,
+  "x": 107.5,
+  "y": 313.2,
+  "hub": "940GZZLURSG",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Bridgwater Road Fields; quiet, residential",
+  "hook": "Bridgwater Road Fields; quiet, residential"
+ },
+ {
+  "id": "940GZZLURSM",
+  "name": "Ruislip Manor",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.573202,
+  "lon": -0.412973,
+  "x": 110.2,
+  "y": 286,
+  "hub": "940GZZLURSM",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLURSQ",
+  "name": "Russell Square",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.523073,
+  "lon": -0.124285,
+  "x": 559.8,
+  "y": 377.2,
+  "hub": "940GZZLURSQ",
+  "candidate": true,
+  "pois": {
+   "pubs": 11,
+   "bars": 5,
+   "restaurants": 47,
+   "cafes": 40,
+   "parks": 7,
+   "culture": 48,
+   "markets": 1
+  },
+  "draft": "Brunswick Saturday Food Market, Queen Square Gardens; lots of pubs, packed with restaurants, theatres and galleries, market",
+  "hook": "Bloomsbury squares, British Museum, Brunswick Centre, quiet pubs"
+ },
+ {
+  "id": "940GZZLUSVS",
+  "name": "Seven Sisters",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 3,
+  "lat": 51.58333,
+  "lon": -0.072584,
+  "x": 645.3,
+  "y": 190.5,
+  "hub": "HUBSVS",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 1,
+   "restaurants": 10,
+   "cafes": 4,
+   "parks": 4,
+   "culture": 4,
+   "markets": 1
+  },
+  "draft": "Seven Sisters Market, Seven Sisters (present location), Page Green Common; green, market",
+  "hook": "Tottenham; Latin Village market, Bruce Castle park, local pubs"
+ },
+ {
+  "id": "940GZZLUSBC",
+  "name": "Shepherd's Bush",
+  "lines": [
+   "central"
+  ],
+  "zone": 2,
+  "lat": 51.504376,
+  "lon": -0.218813,
+  "x": 306.2,
+  "y": 463.9,
+  "hub": "HUBSPB",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 1,
+   "restaurants": 27,
+   "cafes": 14,
+   "parks": 3,
+   "culture": 5,
+   "markets": 3
+  },
+  "draft": "Shepherds Bush Green, The Central Bar, Royal Crescent Garden; pubs, restaurants, green, market",
+  "hook": "Westfield shopping, Bush Hall and Empire gigs, the Green"
+ },
+ {
+  "id": "940GZZLUSBM",
+  "name": "Shepherd's Bush Market",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.505579,
+  "lon": -0.226375,
+  "x": 293.2,
+  "y": 458,
+  "hub": "940GZZLUSBM",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 2,
+   "restaurants": 46,
+   "cafes": 20,
+   "parks": 1,
+   "culture": 7,
+   "markets": 4
+  },
+  "draft": "The New Shepherd's Bush Market, Bush Theatre; pubs, packed with restaurants, market",
+  "hook": "Market, Bush theatre, Uxbridge Road cheap eats"
+ },
+ {
+  "id": "940GZZLUSSQ",
+  "name": "Sloane Square",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.49227,
+  "lon": -0.156377,
+  "x": 456,
+  "y": 532.2,
+  "hub": "940GZZLUSSQ",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 1,
+   "restaurants": 23,
+   "cafes": 8,
+   "parks": 3,
+   "culture": 25,
+   "markets": 5
+  },
+  "draft": "Royal Court Theatre, Saatchi Gallery, Pimlico Road Farmers' Market; pubs, restaurants, theatres and galleries, green",
+  "hook": "Chelsea: King's Road, Royal Court theatre, Saatchi Gallery, posh brunch"
+ },
+ {
+  "id": "940GZZLUSNB",
+  "name": "Snaresbrook",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.580678,
+  "lon": 0.02144,
+  "x": 786,
+  "y": 235.8,
+  "hub": "940GZZLUSNB",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 8,
+   "cafes": 5,
+   "parks": 1,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "The Wanstead Curtain; local high street",
+  "hook": "The Wanstead Curtain; local high street"
+ },
+ {
+  "id": "940GZZLUSEA",
+  "name": "South Ealing",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.501003,
+  "lon": -0.307424,
+  "x": 189.2,
+  "y": 462.9,
+  "hub": "940GZZLUSEA",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 1,
+   "restaurants": 9,
+   "cafes": 6,
+   "parks": 2,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "Art-K, Maytrees Rest Gardens, Village Park Rec.; green",
+  "hook": "Art-K, Maytrees Rest Gardens, Village Park Rec.; green"
+ },
+ {
+  "id": "940GZZLUSHH",
+  "name": "South Harrow",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 5,
+  "lat": 51.564888,
+  "lon": -0.352492,
+  "x": 157,
+  "y": 290,
+  "hub": "940GZZLUSHH",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 5,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 0,
+   "markets": 1
+  },
+  "draft": "South Harrow Market; market",
+  "hook": "South Harrow Market; market"
+ },
+ {
+  "id": "940GZZLUSKS",
+  "name": "South Kensington",
+  "lines": [
+   "circle",
+   "district",
+   "piccadilly"
+  ],
+  "zone": 1,
+  "lat": 51.494094,
+  "lon": -0.174138,
+  "x": 405.7,
+  "y": 519.4,
+  "hub": "940GZZLUSKS",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 2,
+   "restaurants": 54,
+   "cafes": 29,
+   "parks": 12,
+   "culture": 33,
+   "markets": 1
+  },
+  "draft": "South Kensington (Saturdays) Farmers' Market, Onslow Square, Thurloe Square Garden; packed with restaurants, theatres and galleries, green, market",
+  "hook": "Natural History, Science and V&A museums, Exhibition Road, family day out"
+ },
+ {
+  "id": "940GZZLUSKT",
+  "name": "South Kenton",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 4,
+  "lat": 51.570232,
+  "lon": -0.308433,
+  "x": 204.3,
+  "y": 263,
+  "hub": "HUBSOK",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 0,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "Preston Park, The Windermere; quiet, residential",
+  "hook": "Preston Park, The Windermere; quiet, residential"
+ },
+ {
+  "id": "940GZZLUSRP",
+  "name": "South Ruislip",
+  "lines": [
+   "central"
+  ],
+  "zone": 5,
+  "lat": 51.556853,
+  "lon": -0.398915,
+  "x": 115.2,
+  "y": 319.8,
+  "hub": "HUBSRU",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUSWN",
+  "name": "South Wimbledon",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3.5,
+  "lat": 51.415309,
+  "lon": -0.192005,
+  "x": 406.2,
+  "y": 720.4,
+  "hub": "940GZZLUSWN",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 6,
+   "cafes": 7,
+   "parks": 1,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "The Nelson Arms, Nelson Gardens; local high street",
+  "hook": "The Nelson Arms, Nelson Gardens; local high street"
+ },
+ {
+  "id": "940GZZLUSWF",
+  "name": "South Woodford",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.591907,
+  "lon": 0.027338,
+  "x": 785.8,
+  "y": 211.8,
+  "hub": "940GZZLUSWF",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 2,
+   "restaurants": 6,
+   "cafes": 12,
+   "parks": 0,
+   "culture": 0,
+   "markets": 1
+  },
+  "draft": "market",
+  "hook": "market"
+ },
+ {
+  "id": "940GZZLUSFS",
+  "name": "Southfields",
+  "lines": [
+   "district"
+  ],
+  "zone": 3,
+  "lat": 51.445073,
+  "lon": -0.206602,
+  "x": 364.5,
+  "y": 655.9,
+  "hub": "940GZZLUSFS",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 6,
+   "parks": 1,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Historic Southfields Pond; local high street",
+  "hook": "Historic Southfields Pond; local high street"
+ },
+ {
+  "id": "940GZZLUSGT",
+  "name": "Southgate",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.632315,
+  "lon": -0.127816,
+  "x": 525,
+  "y": 85.8,
+  "hub": "940GZZLUSGT",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 0,
+   "restaurants": 23,
+   "cafes": 10,
+   "parks": 5,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "The New Crown, Southgate Pocket Park, Rain Garden; pubs, restaurants, green",
+  "hook": "The New Crown, Southgate Pocket Park, Rain Garden; pubs, restaurants, green"
+ },
+ {
+  "id": "940GZZLUSWK",
+  "name": "Southwark",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 1,
+  "lat": 51.50427,
+  "lon": -0.105331,
+  "x": 610.7,
+  "y": 473.3,
+  "hub": "940GZZLUSWK",
+  "candidate": true,
+  "pois": {
+   "pubs": 16,
+   "bars": 7,
+   "restaurants": 34,
+   "cafes": 20,
+   "parks": 8,
+   "culture": 14,
+   "markets": 0
+  },
+  "draft": "Kirkaldy Testing Museum, The Young Vic, Union Theatre; lots of pubs, restaurants, theatres and galleries",
+  "hook": "South Bank, Tate Modern, Young Vic, Southbank Centre, riverside walk, BFI"
+ },
+ {
+  "id": "940GZZLUSJP",
+  "name": "St. James's Park",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.499544,
+  "lon": -0.133608,
+  "x": 527.3,
+  "y": 502.9,
+  "hub": "940GZZLUSJP",
+  "candidate": true,
+  "pois": {
+   "pubs": 12,
+   "bars": 2,
+   "restaurants": 20,
+   "cafes": 28,
+   "parks": 5,
+   "culture": 36,
+   "markets": 1
+  },
+  "draft": "Strutton Ground Market, Caxton Hall, Christchurch Gardens; lots of pubs, restaurants, theatres and galleries, market",
+  "hook": "St James's Park, Buckingham Palace, Westminster; quiet civil-service pubs"
+ },
+ {
+  "id": "940GZZLUSJW",
+  "name": "St. John's Wood",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.534521,
+  "lon": -0.173948,
+  "x": 405.1,
+  "y": 328.2,
+  "hub": "940GZZLUSJW",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 10,
+   "cafes": 8,
+   "parks": 0,
+   "culture": 10,
+   "markets": 0
+  },
+  "draft": "Abbey Road Crossing; theatres and galleries",
+  "hook": "Lord's cricket, Abbey Road, Regent's Park, quiet leafy streets"
+ },
+ {
+  "id": "940GZZLUSPU",
+  "name": "St. Paul's",
+  "lines": [
+   "central"
+  ],
+  "zone": 1,
+  "lat": 51.514936,
+  "lon": -0.097567,
+  "x": 631.5,
+  "y": 421.4,
+  "hub": "940GZZLUSPU",
+  "candidate": true,
+  "pois": {
+   "pubs": 17,
+   "bars": 16,
+   "restaurants": 56,
+   "cafes": 34,
+   "parks": 18,
+   "culture": 73,
+   "markets": 1
+  },
+  "draft": "St Paul's Churchyard, St Paul's Cathedral, St John Zachary; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "St Paul's Cathedral, Millennium Bridge, One New Change roof terrace, City pubs"
+ },
+ {
+  "id": "940GZZLUSFB",
+  "name": "Stamford Brook",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.494917,
+  "lon": -0.245704,
+  "x": 266.8,
+  "y": 493.3,
+  "hub": "940GZZLUSFB",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 9,
+   "cafes": 3,
+   "parks": 3,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "Stamford Brook Common, Land at Prebend Gardens, St. Peter's Square; green",
+  "hook": "Stamford Brook Common, Land at Prebend Gardens, St. Peter's Square; green"
+ },
+ {
+  "id": "940GZZLUSTM",
+  "name": "Stanmore",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 5,
+  "lat": 51.619839,
+  "lon": -0.303266,
+  "x": 241.7,
+  "y": 150.6,
+  "hub": "940GZZLUSTM",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUSGN",
+  "name": "Stepney Green",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.521858,
+  "lon": -0.046596,
+  "x": 724.5,
+  "y": 394.9,
+  "hub": "940GZZLUSGN",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 1,
+   "restaurants": 7,
+   "cafes": 8,
+   "parks": 6,
+   "culture": 5,
+   "markets": 0
+  },
+  "draft": "Studio Yukari, The Half Moon, Beaumont Square Gardens; green",
+  "hook": "Studio Yukari, The Half Moon, Beaumont Square Gardens; green"
+ },
+ {
+  "id": "940GZZLUSKW",
+  "name": "Stockwell",
+  "lines": [
+   "northern",
+   "victoria"
+  ],
+  "zone": 2,
+  "lat": 51.472184,
+  "lon": -0.122644,
+  "x": 550.1,
+  "y": 599.6,
+  "hub": "940GZZLUSKW",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 7,
+   "cafes": 7,
+   "parks": 1,
+   "culture": 6,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "Portuguese cafés and restaurants, Brixton edge, local pubs"
+ },
+ {
+  "id": "940GZZLUSGP",
+  "name": "Stonebridge Park",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 3,
+  "lat": 51.543959,
+  "lon": -0.275892,
+  "x": 229.5,
+  "y": 326.8,
+  "hub": "HUBSBP",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUSTD",
+  "name": "Stratford",
+  "lines": [
+   "central",
+   "jubilee"
+  ],
+  "zone": 2.5,
+  "lat": 51.541806,
+  "lon": -0.003458,
+  "x": 776.9,
+  "y": 334.6,
+  "hub": "HUBSRA",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 6,
+   "restaurants": 54,
+   "cafes": 29,
+   "parks": 1,
+   "culture": 15,
+   "markets": 8
+  },
+  "draft": "Robert, Stratford Indoor Market, Stratford Mall; packed with restaurants, theatres and galleries, market",
+  "hook": "Olympic Park, Westfield, ArcelorMittal Orbit, London Stadium, Aquatics Centre"
+ },
+ {
+  "id": "940GZZLUSUH",
+  "name": "Sudbury Hill",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.556946,
+  "lon": -0.336435,
+  "x": 168.7,
+  "y": 305.8,
+  "hub": "940GZZLUSUH",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 3,
+   "cafes": 2,
+   "parks": 2,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Grove Farm local nature reserve, Ridding Lane Open Space; green",
+  "hook": "Grove Farm local nature reserve, Ridding Lane Open Space; green"
+ },
+ {
+  "id": "940GZZLUSUT",
+  "name": "Sudbury Town",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 4,
+  "lat": 51.550815,
+  "lon": -0.315745,
+  "x": 187,
+  "y": 317,
+  "hub": "940GZZLUSUT",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUSWC",
+  "name": "Swiss Cottage",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.543681,
+  "lon": -0.174894,
+  "x": 408,
+  "y": 292.5,
+  "hub": "940GZZLUSWC",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 18,
+   "cafes": 7,
+   "parks": 2,
+   "culture": 7,
+   "markets": 1
+  },
+  "draft": "Swiss Cottage Farmers’ Market, The Royal Central School of Speech and Drama, Hampstead Theatre; restaurants, green, market",
+  "hook": "Hampstead Theatre, Primrose Hill, leafy residential, pubs"
+ },
+ {
+  "id": "940GZZLUTMP",
+  "name": "Temple",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.511006,
+  "lon": -0.11426,
+  "x": 589.8,
+  "y": 442,
+  "hub": "940GZZLUTMP",
+  "candidate": true,
+  "pois": {
+   "pubs": 9,
+   "bars": 10,
+   "restaurants": 24,
+   "cafes": 22,
+   "parks": 4,
+   "culture": 46,
+   "markets": 1
+  },
+  "draft": "Roman Baths, Two Temple Place, Middle Temple Garden; late-night bars, pubs, restaurants, theatres and galleries",
+  "hook": "Thames riverside, Inns of Court, Somerset House, walk to Covent Garden"
+ },
+ {
+  "id": "940GZZLUTHB",
+  "name": "Theydon Bois",
+  "lines": [
+   "central"
+  ],
+  "zone": 6,
+  "lat": 51.671759,
+  "lon": 0.103085,
+  "x": 815.2,
+  "y": 95.9,
+  "hub": "940GZZLUTHB",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUTBC",
+  "name": "Tooting Bec",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.435678,
+  "lon": -0.159736,
+  "x": 462.6,
+  "y": 688.3,
+  "hub": "940GZZLUTBC",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 18,
+   "cafes": 11,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "London Sewing Machine Museum, Gallery Midnight., The Wheatsheaf; restaurants",
+  "hook": "London Sewing Machine Museum, Gallery Midnight., The Wheatsheaf; restaurants"
+ },
+ {
+  "id": "940GZZLUTBY",
+  "name": "Tooting Broadway",
+  "lines": [
+   "northern"
+  ],
+  "zone": 3,
+  "lat": 51.42763,
+  "lon": -0.168374,
+  "x": 446.8,
+  "y": 702.8,
+  "hub": "940GZZLUTBY",
+  "candidate": true,
+  "pois": {
+   "pubs": 6,
+   "bars": 12,
+   "restaurants": 77,
+   "cafes": 11,
+   "parks": 2,
+   "culture": 1,
+   "markets": 3
+  },
+  "draft": "Broadway Market, Tooting Market, TK Maxx; late-night bars, pubs, packed with restaurants, green",
+  "hook": "Broadway Market, Tooting Market, TK Maxx; late-night bars, pubs, packed with restaurants, green"
+ },
+ {
+  "id": "940GZZLUTCR",
+  "name": "Tottenham Court Road",
+  "lines": [
+   "central",
+   "northern"
+  ],
+  "zone": 1,
+  "lat": 51.516426,
+  "lon": -0.13041,
+  "x": 541.9,
+  "y": 413,
+  "hub": "HUBTCR",
+  "candidate": true,
+  "pois": {
+   "pubs": 33,
+   "bars": 53,
+   "restaurants": 212,
+   "cafes": 77,
+   "parks": 3,
+   "culture": 74,
+   "markets": 3
+  },
+  "draft": "Earlham Street Market, Soho Square Gardens, Phoenix Garden; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Soho, Charlotte Street restaurants, Denmark Street, bars, theatres, late nights"
+ },
+ {
+  "id": "940GZZLUTMH",
+  "name": "Tottenham Hale",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 3,
+  "lat": 51.588108,
+  "lon": -0.060241,
+  "x": 664.3,
+  "y": 184.2,
+  "hub": "HUBTOM",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 0,
+   "cafes": 10,
+   "parks": 1,
+   "culture": 1,
+   "markets": 3
+  },
+  "draft": "Asda Living, TK Maxx, Down Lane Park; market",
+  "hook": "Asda Living, TK Maxx, Down Lane Park; market"
+ },
+ {
+  "id": "940GZZLUTAW",
+  "name": "Totteridge & Whetstone",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.630597,
+  "lon": -0.17921,
+  "x": 433.9,
+  "y": 91,
+  "hub": "940GZZLUTAW",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 13,
+   "cafes": 6,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "The Whetstone; restaurants",
+  "hook": "The Whetstone; restaurants"
+ },
+ {
+  "id": "940GZZLUTWH",
+  "name": "Tower Hill",
+  "lines": [
+   "circle",
+   "district"
+  ],
+  "zone": 1,
+  "lat": 51.509971,
+  "lon": -0.076546,
+  "x": 674.3,
+  "y": 442.5,
+  "hub": "940GZZLUTWH",
+  "candidate": true,
+  "pois": {
+   "pubs": 20,
+   "bars": 15,
+   "restaurants": 42,
+   "cafes": 22,
+   "parks": 6,
+   "culture": 61,
+   "markets": 0
+  },
+  "draft": "Waterloo Block, Crown Jewels, Tower of London; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Tower of London, Tower Bridge, St Katharine Docks, tourist crowds"
+ },
+ {
+  "id": "940GZZLUTFP",
+  "name": "Tufnell Park",
+  "lines": [
+   "northern"
+  ],
+  "zone": 2,
+  "lat": 51.556822,
+  "lon": -0.138433,
+  "x": 509.2,
+  "y": 242.6,
+  "hub": "940GZZLUTFP",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 2,
+   "restaurants": 11,
+   "cafes": 9,
+   "parks": 0,
+   "culture": 4,
+   "markets": 0
+  },
+  "draft": "Boston Music Room, The Boston Arms, Junction Tavern; pubs",
+  "hook": "Boston Music Room, Dome gigs, local pubs, Hampstead Heath walk"
+ },
+ {
+  "id": "940GZZLUTNG",
+  "name": "Turnham Green",
+  "lines": [
+   "district",
+   "piccadilly"
+  ],
+  "zone": 2.5,
+  "lat": 51.495148,
+  "lon": -0.254555,
+  "x": 254.1,
+  "y": 490.4,
+  "hub": "940GZZLUTNG",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 2,
+   "restaurants": 26,
+   "cafes": 15,
+   "parks": 2,
+   "culture": 7,
+   "markets": 0
+  },
+  "draft": "The Tabard Theatre, The Tabard, Acton Green Common; pubs, restaurants, green",
+  "hook": "Chiswick: riverside pubs, Chiswick House gardens, leafy village"
+ },
+ {
+  "id": "940GZZLUTPN",
+  "name": "Turnpike Lane",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.590272,
+  "lon": -0.102953,
+  "x": 582.4,
+  "y": 164.8,
+  "hub": "940GZZLUTPN",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 12,
+   "cafes": 16,
+   "parks": 3,
+   "culture": 8,
+   "markets": 1
+  },
+  "draft": "Ducketts Common, Dovecote Avenue, The Toll Gate; restaurants, theatres and galleries, green, market",
+  "hook": "Ducketts Common, Dovecote Avenue, The Toll Gate; restaurants, theatres and galleries, green, market"
+ },
+ {
+  "id": "940GZZLUUPM",
+  "name": "Upminster",
+  "lines": [
+   "district"
+  ],
+  "zone": 6,
+  "lat": 51.559063,
+  "lon": 0.250882,
+  "x": 970,
+  "y": 335.7,
+  "hub": "HUBUPM",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 0,
+   "restaurants": 11,
+   "cafes": 7,
+   "parks": 0,
+   "culture": 0,
+   "markets": 1
+  },
+  "draft": "Roomes; market",
+  "hook": "Roomes; market"
+ },
+ {
+  "id": "940GZZLUUPB",
+  "name": "Upminster Bridge",
+  "lines": [
+   "district"
+  ],
+  "zone": 6,
+  "lat": 51.55856,
+  "lon": 0.235809,
+  "x": 962,
+  "y": 334.8,
+  "hub": "940GZZLUUPB",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUUPY",
+  "name": "Upney",
+  "lines": [
+   "district"
+  ],
+  "zone": 4,
+  "lat": 51.538372,
+  "lon": 0.10153,
+  "x": 879.1,
+  "y": 362.1,
+  "hub": "940GZZLUUPY",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUUPK",
+  "name": "Upton Park",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 3,
+  "lat": 51.53534,
+  "lon": 0.035263,
+  "x": 821.5,
+  "y": 361.4,
+  "hub": "940GZZLUUPK",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 47,
+   "cafes": 12,
+   "parks": 1,
+   "culture": 0,
+   "markets": 2
+  },
+  "draft": "Queen's Market, Dorset Road Community Garden; packed with restaurants, market",
+  "hook": "Queen's Market, Dorset Road Community Garden; packed with restaurants, market"
+ },
+ {
+  "id": "940GZZLUUXB",
+  "name": "Uxbridge",
+  "lines": [
+   "metropolitan",
+   "piccadilly"
+  ],
+  "zone": 6,
+  "lat": 51.546565,
+  "lon": -0.477949,
+  "x": 59.6,
+  "y": 354,
+  "hub": "940GZZLUUXB",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUVXL",
+  "name": "Vauxhall",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 1.5,
+  "lat": 51.485743,
+  "lon": -0.124204,
+  "x": 550.8,
+  "y": 556,
+  "hub": "HUBVXH",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 16,
+   "restaurants": 15,
+   "cafes": 11,
+   "parks": 7,
+   "culture": 13,
+   "markets": 0
+  },
+  "draft": "Vauxhall Pleasure Gardens, Vauxhall Park, horses; late-night bars, pubs, restaurants, theatres and galleries",
+  "hook": "Riverside, gay bars and clubs, Vauxhall Pleasure Gardens, Newport Street Gallery"
+ },
+ {
+  "id": "940GZZLUVIC",
+  "name": "Victoria",
+  "lines": [
+   "circle",
+   "district",
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.496359,
+  "lon": -0.143102,
+  "x": 496.2,
+  "y": 517.4,
+  "hub": "HUBVIC",
+  "candidate": true,
+  "pois": {
+   "pubs": 19,
+   "bars": 4,
+   "restaurants": 55,
+   "cafes": 37,
+   "parks": 5,
+   "culture": 23,
+   "markets": 2
+  },
+  "draft": "Victoria Square, Westminster Cathedral, Victoria Palace Theatre; lots of pubs, packed with restaurants, theatres and galleries, market",
+  "hook": "Coach and rail hub; Apollo Victoria theatre, Cardinal Place, Buckingham Palace"
+ },
+ {
+  "id": "940GZZLUWWL",
+  "name": "Walthamstow Central",
+  "lines": [
+   "victoria"
+  ],
+  "zone": 3,
+  "lat": 51.582965,
+  "lon": -0.019885,
+  "x": 731.4,
+  "y": 213.5,
+  "hub": "HUBWHC",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 19,
+   "cafes": 15,
+   "parks": 0,
+   "culture": 4,
+   "markets": 2
+  },
+  "draft": "Walthamstow Farmers' Market, Soho Theatre Walthamstow; restaurants, market",
+  "hook": "Walthamstow Village pubs, God's Own Junkyard, market, Wetlands, craft beer"
+ },
+ {
+  "id": "940GZZLUWSD",
+  "name": "Wanstead",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.575501,
+  "lon": 0.028527,
+  "x": 797.1,
+  "y": 251.1,
+  "hub": "940GZZLUWSD",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 1,
+   "restaurants": 11,
+   "cafes": 6,
+   "parks": 2,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "IIF Gallery, The George and Dragon, George Green; green",
+  "hook": "IIF Gallery, The George and Dragon, George Green; green"
+ },
+ {
+  "id": "940GZZLUWRR",
+  "name": "Warren Street",
+  "lines": [
+   "northern",
+   "victoria"
+  ],
+  "zone": 1,
+  "lat": 51.524951,
+  "lon": -0.138321,
+  "x": 512.7,
+  "y": 364.9,
+  "hub": "940GZZLUWRR",
+  "candidate": true,
+  "pois": {
+   "pubs": 17,
+   "bars": 8,
+   "restaurants": 41,
+   "cafes": 35,
+   "parks": 1,
+   "culture": 41,
+   "markets": 0
+  },
+  "draft": "Grant Museum of Zoology, Wellcome Collection, UCL Art Museum; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "Fitzrovia; Regent's Park, UCL, Charlotte Street restaurants"
+ },
+ {
+  "id": "940GZZLUWKA",
+  "name": "Warwick Avenue",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 2,
+  "lat": 51.523263,
+  "lon": -0.183783,
+  "x": 375.5,
+  "y": 381.6,
+  "hub": "940GZZLUWKA",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 0,
+   "restaurants": 8,
+   "cafes": 7,
+   "parks": 7,
+   "culture": 10,
+   "markets": 0
+  },
+  "draft": "Canal Cafe Theatre, The Puppet Theatre Barge, Warwick Castle; pubs, theatres and galleries, green",
+  "hook": "Little Venice canal boats, waterside pubs, Rembrandt Gardens, quiet and pretty"
+ },
+ {
+  "id": "940GZZLUWLO",
+  "name": "Waterloo",
+  "lines": [
+   "bakerloo",
+   "jubilee",
+   "northern",
+   "waterloo-city"
+  ],
+  "zone": 1,
+  "lat": 51.503299,
+  "lon": -0.11478,
+  "x": 585.7,
+  "y": 480.5,
+  "hub": "HUBWAT",
+  "candidate": true,
+  "pois": {
+   "pubs": 10,
+   "bars": 19,
+   "restaurants": 48,
+   "cafes": 35,
+   "parks": 6,
+   "culture": 34,
+   "markets": 3
+  },
+  "draft": "Topolski Century, BFI IMAX, Jubilee Gardens; late-night bars, lots of pubs, packed with restaurants, theatres and galleries",
+  "hook": "South Bank, London Eye, BFI, Southbank Centre, National Theatre, riverside bars"
+ },
+ {
+  "id": "940GZZLUWAF",
+  "name": "Watford",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 7,
+  "lat": 51.657446,
+  "lon": -0.417377,
+  "x": 149.5,
+  "y": 128.7,
+  "hub": "940GZZLUWAF",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUWYC",
+  "name": "Wembley Central",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 4,
+  "lat": 51.552304,
+  "lon": -0.296852,
+  "x": 208.2,
+  "y": 307.8,
+  "hub": "HUBWMB",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 23,
+   "cafes": 3,
+   "parks": 0,
+   "culture": 0,
+   "markets": 2
+  },
+  "draft": "TK Maxx, J.J. Moon's; restaurants, market",
+  "hook": "TK Maxx, J.J. Moon's; restaurants, market"
+ },
+ {
+  "id": "940GZZLUWYP",
+  "name": "Wembley Park",
+  "lines": [
+   "jubilee",
+   "metropolitan"
+  ],
+  "zone": 4,
+  "lat": 51.563198,
+  "lon": -0.279262,
+  "x": 235.2,
+  "y": 271.3,
+  "hub": "940GZZLUWYP",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 0,
+   "restaurants": 4,
+   "cafes": 4,
+   "parks": 2,
+   "culture": 6,
+   "markets": 0
+  },
+  "draft": "Repton Gardens - Play Area, Chalkhill Park; pubs, green",
+  "hook": "Wembley Stadium, OVO Arena, Boxpark, event-day crowds"
+ },
+ {
+  "id": "940GZZLUWTA",
+  "name": "West Acton",
+  "lines": [
+   "central"
+  ],
+  "zone": 3,
+  "lat": 51.518001,
+  "lon": -0.28098,
+  "x": 217,
+  "y": 410.9,
+  "hub": "940GZZLUWTA",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUWBN",
+  "name": "West Brompton",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.487268,
+  "lon": -0.195599,
+  "x": 359.5,
+  "y": 537.6,
+  "hub": "HUBWBP",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 0,
+   "restaurants": 6,
+   "cafes": 6,
+   "parks": 4,
+   "culture": 6,
+   "markets": 0
+  },
+  "draft": "The Gallery, Finborough Theatre, Columbia Gardens; pubs, green",
+  "hook": "Brompton Cemetery walk, Chelsea pubs, Stamford Bridge"
+ },
+ {
+  "id": "940GZZLUWFN",
+  "name": "West Finchley",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.609426,
+  "lon": -0.188362,
+  "x": 410.7,
+  "y": 128.6,
+  "hub": "940GZZLUWFN",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 0,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ },
+ {
+  "id": "940GZZLUWHM",
+  "name": "West Ham",
+  "lines": [
+   "district",
+   "hammersmith-city",
+   "jubilee"
+  ],
+  "zone": 2.5,
+  "lat": 51.528136,
+  "lon": 0.005055,
+  "x": 790.9,
+  "y": 379,
+  "hub": "HUBWEH",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 1,
+   "cafes": 2,
+   "parks": 0,
+   "culture": 3,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUWHP",
+  "name": "West Hampstead",
+  "lines": [
+   "jubilee"
+  ],
+  "zone": 2,
+  "lat": 51.546638,
+  "lon": -0.191059,
+  "x": 371.6,
+  "y": 288.1,
+  "hub": "HUBWHD",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 4,
+   "restaurants": 10,
+   "cafes": 10,
+   "parks": 0,
+   "culture": 2,
+   "markets": 2
+  },
+  "draft": "West Hampstead Farmers' Market, Marks & Spencer; market",
+  "hook": "West End Lane cafés, bars, brunch, young professionals"
+ },
+ {
+  "id": "940GZZLUWHW",
+  "name": "West Harrow",
+  "lines": [
+   "metropolitan"
+  ],
+  "zone": 5,
+  "lat": 51.57971,
+  "lon": -0.3534,
+  "x": 163.2,
+  "y": 254.9,
+  "hub": "940GZZLUWHW",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUWKN",
+  "name": "West Kensington",
+  "lines": [
+   "district"
+  ],
+  "zone": 2,
+  "lat": 51.490459,
+  "lon": -0.206636,
+  "x": 334.9,
+  "y": 521.5,
+  "hub": "940GZZLUWKN",
+  "candidate": true,
+  "pois": {
+   "pubs": 3,
+   "bars": 1,
+   "restaurants": 9,
+   "cafes": 12,
+   "parks": 1,
+   "culture": 6,
+   "markets": 0
+  },
+  "draft": "Gwendwr Gardens, Bharatiya Vidya Bhavan; local high street",
+  "hook": "Gwendwr Gardens, Bharatiya Vidya Bhavan; local high street"
+ },
+ {
+  "id": "940GZZLUWRP",
+  "name": "West Ruislip",
+  "lines": [
+   "central"
+  ],
+  "zone": 6,
+  "lat": 51.569688,
+  "lon": -0.437886,
+  "x": 91,
+  "y": 299,
+  "hub": "HUBWRU",
+  "candidate": false,
+  "pois": null,
+  "draft": "",
+  "hook": ""
+ },
+ {
+  "id": "940GZZLUWSP",
+  "name": "Westbourne Park",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.52111,
+  "lon": -0.201065,
+  "x": 337.8,
+  "y": 394.1,
+  "hub": "940GZZLUWSP",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 1,
+   "restaurants": 8,
+   "cafes": 8,
+   "parks": 2,
+   "culture": 4,
+   "markets": 1
+  },
+  "draft": "Maida Hill Market, Meanwhile Gardens, Tavistock Road Gardens; pubs, green, market",
+  "hook": "Maida Hill Market, Meanwhile Gardens, Tavistock Road Gardens; pubs, green, market"
+ },
+ {
+  "id": "940GZZLUWSM",
+  "name": "Westminster",
+  "lines": [
+   "circle",
+   "district",
+   "jubilee"
+  ],
+  "zone": 1,
+  "lat": 51.50132,
+  "lon": -0.124861,
+  "x": 555.5,
+  "y": 492.8,
+  "hub": "HUBWSM",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 2,
+   "restaurants": 3,
+   "cafes": 7,
+   "parks": 12,
+   "culture": 83,
+   "markets": 0
+  },
+  "draft": "Big Ben, Elizabeth Tower, Parliament Square; pubs, theatres and galleries, green",
+  "hook": "Big Ben, Parliament, Westminster Abbey, Whitehall; tourist heart, riverside"
+ },
+ {
+  "id": "940GZZLUWCY",
+  "name": "White City",
+  "lines": [
+   "central"
+  ],
+  "zone": 2,
+  "lat": 51.511959,
+  "lon": -0.224297,
+  "x": 295.5,
+  "y": 433,
+  "hub": "940GZZLUWCY",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 10,
+   "cafes": 9,
+   "parks": 2,
+   "culture": 7,
+   "markets": 1
+  },
+  "draft": "Elephant West, Hammersmith Park, Unit 1 Gallery & Workshop; green, market",
+  "hook": "Elephant West, Hammersmith Park, Unit 1 Gallery & Workshop; green, market"
+ },
+ {
+  "id": "940GZZLUWPL",
+  "name": "Whitechapel",
+  "lines": [
+   "district",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.519518,
+  "lon": -0.059971,
+  "x": 703.7,
+  "y": 402.9,
+  "hub": "HUBZWL",
+  "candidate": true,
+  "pois": {
+   "pubs": 5,
+   "bars": 0,
+   "restaurants": 10,
+   "cafes": 15,
+   "parks": 3,
+   "culture": 8,
+   "markets": 1
+  },
+  "draft": "Whitechapel Road Market, Royal London Hospital Museum, Tower Hamlets Town Hall; pubs, theatres and galleries, green, market",
+  "hook": "Whitechapel Gallery, curry, Brick Lane, East End markets, Royal London"
+ },
+ {
+  "id": "940GZZLUWIG",
+  "name": "Willesden Green",
+  "lines": [
+   "jubilee",
+   "metropolitan"
+  ],
+  "zone": 2.5,
+  "lat": 51.549146,
+  "lon": -0.221537,
+  "x": 312.9,
+  "y": 291.9,
+  "hub": "940GZZLUWIG",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 1,
+   "restaurants": 13,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "restaurants",
+  "hook": "Quiet high street, local pubs, Gladstone Park"
+ },
+ {
+  "id": "940GZZLUWJN",
+  "name": "Willesden Junction",
+  "lines": [
+   "bakerloo"
+  ],
+  "zone": 2.5,
+  "lat": 51.532259,
+  "lon": -0.244283,
+  "x": 267.7,
+  "y": 357.9,
+  "hub": "HUBWIJ",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 2,
+   "restaurants": 12,
+   "cafes": 5,
+   "parks": 2,
+   "culture": 0,
+   "markets": 0
+  },
+  "draft": "Tubbs Road Pocket Park, Furness Road Pocket Park; restaurants, green",
+  "hook": "Tubbs Road Pocket Park, Furness Road Pocket Park; restaurants, green"
+ },
+ {
+  "id": "940GZZLUWIM",
+  "name": "Wimbledon",
+  "lines": [
+   "district"
+  ],
+  "zone": 3,
+  "lat": 51.421207,
+  "lon": -0.206573,
+  "x": 377.6,
+  "y": 705.7,
+  "hub": "HUBWIM",
+  "candidate": true,
+  "pois": {
+   "pubs": 8,
+   "bars": 4,
+   "restaurants": 22,
+   "cafes": 19,
+   "parks": 0,
+   "culture": 5,
+   "markets": 3
+  },
+  "draft": "Merton Arts Space, Ely's, TK Maxx; pubs, restaurants, market",
+  "hook": "Merton Arts Space, Ely's, TK Maxx; pubs, restaurants, market"
+ },
+ {
+  "id": "940GZZLUWIP",
+  "name": "Wimbledon Park",
+  "lines": [
+   "district"
+  ],
+  "zone": 3,
+  "lat": 51.434573,
+  "lon": -0.199719,
+  "x": 383.3,
+  "y": 681.4,
+  "hub": "940GZZLUWIP",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 3,
+   "cafes": 5,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUWOG",
+  "name": "Wood Green",
+  "lines": [
+   "piccadilly"
+  ],
+  "zone": 3,
+  "lat": 51.597479,
+  "lon": -0.109886,
+  "x": 565.8,
+  "y": 148.3,
+  "hub": "940GZZLUWOG",
+  "candidate": true,
+  "pois": {
+   "pubs": 4,
+   "bars": 2,
+   "restaurants": 10,
+   "cafes": 6,
+   "parks": 6,
+   "culture": 4,
+   "markets": 1
+  },
+  "draft": "Kidz Adventure Playzone, Spouter's Corner, Cranbrook Park; pubs, green, market",
+  "hook": "Shopping, Alexandra Palace views and park, cheap eats"
+ },
+ {
+  "id": "940GZZLUWLA",
+  "name": "Wood Lane",
+  "lines": [
+   "circle",
+   "hammersmith-city"
+  ],
+  "zone": 2,
+  "lat": 51.509669,
+  "lon": -0.22453,
+  "x": 295.4,
+  "y": 442.1,
+  "hub": "940GZZLUWLA",
+  "candidate": true,
+  "pois": {
+   "pubs": 2,
+   "bars": 0,
+   "restaurants": 21,
+   "cafes": 7,
+   "parks": 2,
+   "culture": 7,
+   "markets": 5
+  },
+  "draft": "Hammersmith Park, Elephant West, Centre Stage; restaurants, green, market",
+  "hook": "Hammersmith Park, Elephant West, Centre Stage; restaurants, green, market"
+ },
+ {
+  "id": "940GZZLUWOF",
+  "name": "Woodford",
+  "lines": [
+   "central"
+  ],
+  "zone": 4,
+  "lat": 51.606899,
+  "lon": 0.03397,
+  "x": 783.8,
+  "y": 182.1,
+  "hub": "940GZZLUWOF",
+  "candidate": true,
+  "pois": {
+   "pubs": 1,
+   "bars": 0,
+   "restaurants": 2,
+   "cafes": 4,
+   "parks": 0,
+   "culture": 2,
+   "markets": 0
+  },
+  "draft": "local high street",
+  "hook": "local high street"
+ },
+ {
+  "id": "940GZZLUWOP",
+  "name": "Woodside Park",
+  "lines": [
+   "northern"
+  ],
+  "zone": 4,
+  "lat": 51.618014,
+  "lon": -0.18542,
+  "x": 419.2,
+  "y": 112.7,
+  "hub": "940GZZLUWOP",
+  "candidate": true,
+  "pois": {
+   "pubs": 0,
+   "bars": 0,
+   "restaurants": 0,
+   "cafes": 1,
+   "parks": 0,
+   "culture": 1,
+   "markets": 0
+  },
+  "draft": "quiet, residential",
+  "hook": "quiet, residential"
+ }
+]

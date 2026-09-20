@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #07080c;
+  --panel: #0f1118;
+  --panel-2: #151824;
+  --line: #232738;
+  --text: #e8eaf2;
+  --muted: #8b90a5;
+  --accent: #7c8cff;
+  --accent-2: #4fd1c5;
+  --good: #3ddc97;
+  --warn: #f5b942;
+  --hot: #ff5f6d;
+  /* Text on an --accent / --good surface (buttons, badges). */
+  --on-accent: #07080c;
+  --on-good: #07080c;
+  --placeholder: #4b5064;
+  /* The schematic's unlit stations: plain dots and the interchange ring. */
+  --map-station: #8b90a5;
+  --map-ring: #c8ccd8;
+  --map-origin: #ffffff;
+}
+
+/* Light, scoped to /meet (`data-theme="light"` on its <main>); the recording layout and the rest of the site stay dark. --accent / --accent-2 are kept, --good / --warn / --hot darkened for white. */
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: #f7f7f5;
+  --panel: #ffffff;
+  --panel-2: #f1f2f5;
+  --line: #e3e5ea;
+  --text: #14161d;
+  --muted: #6b7080;
+  --good: #0b8a5b;
+  --warn: #b25e09;
+  --hot: #d8404d;
+  --on-accent: #07080c;
+  --on-good: #ffffff;
+  --placeholder: #9aa0b0;
+  --map-station: #b9bfcc;
+  --map-ring: #b9bfcc;
+  --map-origin: var(--accent-2);
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+textarea {
+  resize: none;
+}
+
+textarea::placeholder {
+  color: var(--placeholder);
+}
