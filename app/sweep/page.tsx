@@ -137,6 +137,15 @@ export default function SweepPage() {
   );
   useEffect(() => () => void (typeGen.current += 1), []);
 
+  // The firehose runs until told otherwise: Escape stops it and leaves the board as it stands.
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape" && modeRef.current === "live") liveStop();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [liveStop]);
+
   // Script runner (lib/script.ts): typing, Enter, captions. Escape aborts.
   useEffect(() => {
     const steps = params.script ? SCRIPTS[params.script] : null;
@@ -206,7 +215,21 @@ export default function SweepPage() {
           demo ? (portrait ? "px-6 py-4 text-3xl" : "px-6 py-4 text-3xl") : "px-5 py-4 text-xl"
         }`}
       />
-      <span className={`pointer-events-none absolute right-5 text-[var(--muted)] ${demo ? "text-lg" : "text-xs"}`}>{typing ? "typing…" : busy ? (isLive ? "live" : "sweeping…") : "↵ to sweep"}</span>
+      {isLive && busy && !typing ? (
+        <button
+          type="button"
+          onClick={liveStop}
+          aria-label="Stop listening"
+          className={`absolute right-5 flex items-center gap-2 rounded-full border border-[var(--line)] bg-[var(--bg)] text-[var(--muted)] transition hover:border-[var(--hot)] hover:text-[var(--text)] ${demo ? "px-4 py-1.5 text-lg" : "px-3 py-1 text-xs"}`}
+        >
+          <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-[var(--hot)]" />
+          live · stop <span className="text-[var(--muted)]">Esc</span>
+        </button>
+      ) : (
+        <span className={`pointer-events-none absolute right-5 text-[var(--muted)] ${demo ? "text-lg" : "text-xs"}`}>
+          {typing ? "typing…" : busy ? "sweeping…" : isLive && live.stats ? "stopped · ↵ to listen again" : isLive ? "↵ to listen" : "↵ to sweep"}
+        </span>
+      )}
     </div>
   );
 
